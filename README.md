@@ -4,7 +4,6 @@
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/downloads/)
-[![Location](https://img.shields.io/badge/Location-Emeishan%2C%20China-orange.svg)](https://www.ems517.com/)
 
 ---
 
