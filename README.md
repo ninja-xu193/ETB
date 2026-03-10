@@ -26,12 +26,6 @@ The benchmark comprises **29,641** refined records, categorized by their source 
 | **Dist** | 28 | Navigation | Spatial-numerical reasoning |
 | **Total** | **29,641** | - | - |
 
-## 🛡️ Quality Control: The CAT Framework
-To ensure the rigor of synthetic data, we propose the **CAT framework**, focusing on three dimensions:
-* **Coherence (Coh)**: Ensures logical consistency between questions and answers.
-* **Accuracy (Acc)**: Guarantees strict alignment with the provided source context.
-* **Traceability (Tra)**: Ensures that all generated answers can be traced back to verifiable evidence.
-
 
 
 ## 🛠️ Data Format
