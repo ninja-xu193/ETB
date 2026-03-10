@@ -1,0 +1,3818 @@
+[
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00001",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否与佛教文化有关？",
+    "answer": "瑜伽温泉承载着佛、道、医三种文化，因此与佛教文化是相关的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00002",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉适合家庭游玩吗？",
+    "answer": "天颐温泉拥有多个泡汤区，同时设有充盈五彩亲亲鱼的鱼疗池、中央水景舞台、戏水瀑布等游乐设施，适合家庭游玩。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00003",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山矿泉水厂是否因为奥运会而声名鹊起？",
+    "answer": "虽然峨眉山矿泉饮料在1984年洛杉矶奥运会上为一些中国运动员所饮用，但文章中提到，它并未像健力宝那样声名鹊起，反而在一段时间内被人们遗忘，直到后来以\"峨眉雪\"之名重新投产。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00004",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区内，是否可以找到提供地道小吃的购物中心？",
+    "answer": "可以，在沃尔玛、大润发等人流集聚的商场，除了快餐外，还提供各式地道小吃。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00005",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "龙池泗溪沟风景区是否有军人票？",
+    "answer": "没有提及具体的门票优惠政策，可以推测该景区没有军人票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00006",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的游客到访高峰期是什么时候？",
+    "answer": "游客通常在3月李花盛开时以及6月李子采摘季节来天全村。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00007",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山峨秀湖旅游度假区的气候条件是否适合全年进行自然观赏活动并享受当地美食？",
+    "answer": "峨眉山峨秀湖旅游度假区的气候温暖湿润，四季分明，四季有景，气候条件适合全年进行自然观赏活动，并且可以享受当地美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00008",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉为什么被认为是禅意温泉？",
+    "answer": "瑜伽温泉融合了佛、道、医三种文化，这里的沐浴不仅是身体上的，也是心灵上的体验，因此被认为是一种禅意温泉。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00009",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山峨秀湖旅游度假区的环境是否适合自然观赏和品尝当地的特色美食？",
+    "answer": "峨眉山峨秀湖旅游度假区的环境适合自然观赏，因为其森林覆盖率高，空气清新，山水田园环境优良。度假区内有峨秀湖等多处自然景观，四季有景，风景秀丽，适合边观赏自然风光边品尝当地的特色美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00010",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否设定了危险区域？",
+    "answer": "根据提供的信息，瑜伽温泉没有提及存在危险区域。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00011",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区是否有地方特色小吃？",
+    "answer": "峨眉山景区内提供各种特色美食，如跷脚牛肉、冷串串、麻辣烫、烧烤、萝卜汤、锅边馍和鱼火锅等，这些都是峨眉山的地方特色小吃。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00012",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区的灰兜巴为何被认为是最好的？",
+    "answer": "因为峨眉山产的灰兜巴最成规模，质地最优。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00013",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客在瑜伽温泉除了沐浴身体，还能做什么？",
+    "answer": "游客在瑜伽温泉还可以沐浴心灵，体验禅意。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00014",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否提供文化体验？",
+    "answer": "红珠山温泉提供的不只是温泉体验，还具备文化体验。从上下文得知，温泉池在湖光山色中被安排出诗句般的曲折错落，结合袅袅佛音，营造出一种心灵导师般的文化氛围。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00015",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合进行心灵的沐浴？",
+    "answer": "是的，瑜伽温泉承载着佛、道、医三种文化，因此可以推测，瑜伽温泉适合进行心灵的沐浴。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00016",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山生态猴区可以提供食物给猴子吗？",
+    "answer": "可以，但需注意不要乱丢石头、瓜果伤害猴子；不要当面从口袋里拿食物；不要弯腰或者从地上捡食物；如果食物已喂完，而猴居士还在你面前期待的话，你只需要对它拍拍手，再摊开手掌，表示“我已没有食物了，下次再给你吧”。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00017",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "夏天去峨眉山旅游，应该准备哪些清凉解暑的食物？",
+    "answer": "夏天去峨眉山旅游，游客可能会偏好冷串串、麻辣烫和萝卜汤等清凉解暑的食物。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00018",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "大坪寺遗址遗迹是否可以举办宴会（婚宴、寿宴等）？",
+    "answer": "不可以，因为大坪寺如今只留下了三两段堡坎、数块石料以及青苔下的几处碎瓦片，没有完整的建筑，无法提供举办宴会的条件。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00019",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天主教堂内是否有娱乐设施？",
+    "answer": "根据提供的信息，天主教堂内没有提及娱乐设施。其活动内容主要是每周日早上举行的弥撒，弥撒结束后修女们一起交流和教唱歌曲。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00020",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "中峰寺现在的规模与明代相比如何？",
+    "answer": "中峰寺现在的规模已经不及明代十之二三。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00021",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉适合哪些人群？",
+    "answer": "瑜伽温泉适合那些希望在放松身心的同时享受温泉的人群，特别是喜欢瑜伽并希望通过瑜伽来减压的人群。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00022",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《功夫峨眉》灵秀剧场的演出时长是多久？",
+    "answer": "90分钟左右",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00023",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山世纪阳光大酒店是否适合举办会议？",
+    "answer": "适合，因为酒店会议设施齐全，拥有多功能厅、8个大小会议厅，可同时容纳500人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00024",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉三绝的原料经过什么处理？",
+    "answer": "魔芋经过雪水掩埋处理，野生苦笋和香菇生长于峨眉山中。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00025",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村是否可以进行生态旅游？",
+    "answer": "基础设施和生态种植业的发展，为天全村发展乡村旅游奠定了良好的基础条件。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00026",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的气候条件是否适宜种植茶叶？",
+    "answer": "是的，天全村气候温和，植被良好，适宜种植茶叶。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00027",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉的五彩亲亲鱼池是否是唯一游乐设施？",
+    "answer": "天颐温泉的五彩亲亲鱼池并不是唯一游乐设施，除了鱼疗池外，还有中央水景舞台和戏水瀑布。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00028",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游览峨眉山时，如何利用当地的交通资源最大化体验美食街？",
+    "answer": "游览峨眉山时，可以利用当地的观光车或步行前往食为天美食街，从佛光南路与名山南路交叉路口开始，直至天下名山牌坊结束，全长约3.5公里，沿着街路品尝各种特色美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00029",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山御泉湾温泉酒店是否适合举办展览活动？",
+    "answer": "根据提供的信息，峨眉山御泉湾温泉酒店拥有所需设施，适合举办展览活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00030",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为什么叶儿粑吃起来既糯又有香味？",
+    "answer": "叶儿粑用糯米细粉做皮，蒸熟后自然有糯的感觉，而其中的馅料含有白糖、花生、芝麻、核桃等，这些成分赋予了叶儿粑特有的香味。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00031",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋可以作为峨眉山的文化纪念品吗？",
+    "answer": "雪魔芋是峨眉山的特色食品，具有独特风味和国家地理标志保护产品身份，可以作为文化纪念品带回家。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00032",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山恒迈酒店提供的房型是否能满足不同人群需求？",
+    "answer": "可以，因酒店提供5种房型，能满足不同人群的需求。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00033",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客在清音阁附近是否可以欣赏到斗龙坝的传说？",
+    "answer": "游客在清音阁附近可以了解到斗龙坝的传说，因为它位于黑白二水汇流处。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00034",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉景点内是否有文化展览？",
+    "answer": "根据提供的信息，天颐温泉景点内并没有提及关于文化展览的具体内容，主要描述的是温泉的环境和功能。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00035",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客在瑜伽温泉中是否可以练习瑜伽？",
+    "answer": "游客在瑜伽温泉可以将瑜伽与沐浴结合，体验瑜伽温泉。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00036",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉的开放时间是否可以避开人群？",
+    "answer": "灵秀温泉的开放时间是14:00到24:00，而在周六、日和节假日则从13:00开始到24:00结束。如果想要避开人群，可以选择在温泉刚刚开放的时段，即13:00-14:00去，或者选择在晚上接近关门时间去，即22:00-24:00。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00037",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "温泉景点在一周的每一天的运营时间是否相同？",
+    "answer": "不是，周一到周四的运营时间是下午2点到凌晨1点，而周五到周日的运营时间是上午10点到凌晨1点，所以运营时间在不同日子不相同。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00038",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙芝竹尖茶叶的泡茶过程有何特点？",
+    "answer": "泡茶过程中，茶叶被热水冲泡后逐渐舒展，原本的卷角起皱的心情舒展开来，茶汤最终变得碧绿澄净",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00039",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间会不会在周末变长？",
+    "answer": "瑜伽温泉的开放时间在周五到周日为上午10点到凌晨1点，比周一到周四的开放时间长，因此周末的开放时间确实会变长。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00040",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山旅游时，有哪些地方可以品尝到当地的美食？",
+    "answer": "在峨眉山旅游时，可以去食为天美食街，这条街位于佛光南路和名山南路交叉路口起始，向着景区方向延伸，终点在天下名山牌坊，全长约3.5公里，这里提供了跷脚牛肉、冷串串、麻辣烫、烧烤、萝卜汤、锅边馍等丰富的峨眉山特色美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00041",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "纯阳殿的特殊布局如何体现使用功能与自然环境的和谐？",
+    "answer": "纯阳殿的布局利用了正殿与藏经楼地面之间的高差，以陡峭的石梯引入藏经楼，且台阶上有过廊，构成了不同空间的转换。寺庙后部可远眺群山，而寺前古楠环绕，这既满足了实际使用需求，也与自然环境和谐共存。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00042",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "老树院子是否靠近峨眉山的登山入口？",
+    "answer": "是的，老树院子坐落在峨眉山南麓的黄湾小镇，是登顶峨眉山的必经之地。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00043",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在清音阁附近，游客是否可以在购物之后享用美食？",
+    "answer": "从现有内容中，并未提及任何可以进行购物的场所。清音阁附近多为自然景观和古建筑，因此，游客在清音阁附近似乎没有购物中心供其购物，也就无法直接在购物之后享用美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00044",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪芽鲍片的创新之处是什么？",
+    "answer": "雪芽鲍片的创新之处在于以茶入菜，将茶叶中的营养与鲍鱼的滋阴补养功效相结合。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00045",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "神水阁泉水的保健作用是否影响了峨眉山旅游业的矿泉水生产？",
+    "answer": "神水阁泉水的保健作用促使峨眉山山脚下修建起了矿泉水食品厂，将神水加工成啤酒、汽水，受到国内外饮用者好评。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00046",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区内有哪些餐饮推荐？",
+    "answer": "峨眉山景区内有许多特色美食推荐，例如跷脚牛肉、冷串串、麻辣烫、烧烤、萝卜汤、锅边馍和鱼火锅等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00047",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山夏季是否适合食用清凉爽口的菜肴？",
+    "answer": "是的。峨眉山夏季清凉，是避暑消夏的绝佳之地，因此适合食用清凉爽口的菜肴，例如冷串串、麻辣烫等，这些美食可以帮助游客消暑解渴。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00048",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合追求精神平静的人？",
+    "answer": "瑜伽温泉适合追求精神平静的人，因为这里的温泉结合了瑜伽与禅意，可以帮助人们达到心灵上的平静。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00049",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《功夫峨眉》灵秀剧场是否提供野生动植物观察项目？",
+    "answer": "《功夫峨眉》灵秀剧场是一个演艺中心，通过歌、舞、诗、画等艺术形式来展示峨眉山的文化，并未提到提供野生动植物观察项目。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00050",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋在峨眉山景区备受游客喜爱的原因是什么？",
+    "answer": "雪魔芋备受游客喜爱的原因可能包括其独特的风味、松软的质地和入口的鲜美味道。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00051",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "如果我想在峨眉山游玩时享受美食，什么时候可以去温泉？",
+    "answer": "峨眉山的温泉属于川中最佳，如果您想在游玩时享受美食后去泡温泉，建议选择冬季的时候去，冬季可以在山脚下泡温泉。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00052",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在沙溪游玩，除了赏彩叶系列活动，还有什么娱乐项目？",
+    "answer": "除了赏彩叶系列活动，沙溪还提供山地野营活动、篝火晚会和农民运动会。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00053",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在冬天去峨眉山旅游，哪些美食是重点推荐的？",
+    "answer": "冬天去峨眉山旅游，可能会推荐更多温暖的火锅，如跷脚牛肉、鱼火锅等，这些食品可以帮助游客抵御寒冷。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00054",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的气候是否适合作为采摘水果的旅游项目？",
+    "answer": "天全村的气候温和，年平均气温19度，适宜经济果木种植，因此气候条件非常适合开展采摘水果的旅游项目。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00055",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉在周末的开放时间是否比工作日长？",
+    "answer": "瑜伽温泉在周五到周日开放时间是上午10点到凌晨1点，而周一到周四开放时间是下午2点到凌晨1点，所以周末的开放时间比工作日长。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00056",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "遇仙寺的地理位置有什么特别之处？",
+    "answer": "遇仙寺位于长寿坡半腰，处在峭壁之腰，因此虽然斗室蜗轩，但与宏楼画阁相比却别有韵味。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00057",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉是否适合在周六或周日去？",
+    "answer": "是的，灵秀温泉在周六、日和节假日的开放时间是13:00--24:00，适合在此期间前往。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00058",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山哪些旅游纪念品是手工艺品？",
+    "answer": "峨眉山的旅游纪念品种，绒布灵猴可能是手工艺品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00059",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的课程环境是否适合冥想？",
+    "answer": "适合，因为瑜伽温泉融合了佛、道、医三种文化，这里承载着禅意，适合进行冥想。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00060",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山大佛禅院的游览路线是否需要从高处往低处走？",
+    "answer": "不是，大佛禅院的游览路线是沿着中轴线逐级而升的，从东向西，每座殿堂位于十一级平台之一，前后高差33米。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00061",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "二日游路线中，是否可以包括参观农夫山泉峨眉山工业旅游示范基地？",
+    "answer": "二日游路线完全可以包括参观农夫山泉峨眉山工业旅游示范基地，这不仅能让游客了解天然水的生产工艺，而且还能参观高山溪流的水源地，获得特别的体验。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00062",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨秀湖旅游度假区是否适合四季度假？",
+    "answer": "适合四季度假。因为度假区提供了绝佳的生态环境，气候温暖湿润，四季分明，拥有适合四季度假的气候条件。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00063",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合那些想减压的人？",
+    "answer": "是的，瑜伽温泉融合了峨眉山特有的氡温泉与都市最佳减压之道的“瑜伽”，适合想要减压的人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00064",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉的开放时间是否包含晚餐时间？",
+    "answer": "天颐温泉的开放时间是16:00到24:00，这其中包括了晚餐时间。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00065",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉是否适合家庭游玩？",
+    "answer": "根据提供的信息，灵秀温泉设有成人票和针对小童的优惠票，因此灵秀温泉适合家庭游玩。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00066",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "龙须笋的名字从何而来？",
+    "answer": "龙须笋的名字源于其形状类似龙须，据说是从神话传说中流传下来的一种美味。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00067",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山游客在与师父交谈时，是否可以打断师父？",
+    "answer": "不可以，与师父谈话时，若师父与客人言谈时，不可冒失打岔；若有事请示，当侧立静候，不得插嘴。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00068",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉三绝中，苦笋和香菇是否都来自峨眉山？",
+    "answer": "是的，因为上下文提到峨眉三绝中使用的苦笋和香菇是生长于峨眉山中的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00069",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否适合家庭出游？",
+    "answer": "红珠山温泉适合家庭出游，因为家庭琐事带来的烦恼可以被温泉涤荡，而且温泉池被大自然安排得曲折错落，温馨私密。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00070",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "酒店周边是否方便前往其他的峨眉山景区？",
+    "answer": "酒店位于峨眉山景区入口处，距离峨眉山旅游客运中心（峨眉山景区售票处）约800米，因此您可以很方便地前往其他峨眉山景区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00071",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的生态种植业是否为发展乡村旅游提供了基础条件？",
+    "answer": "是的，天全村的基础设施和生态种植业的发展为发展乡村旅游奠定了良好的基础条件。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00072",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区内，若师父在楼上，如何才能礼貌地叫到师父？",
+    "answer": "如果师父在楼上，不可在楼下扯开嗓门地呼唤师父，应该上楼请示。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00073",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "大佛禅院内每天晚上是否有固定的表演？",
+    "answer": "根据上下文信息，大佛禅院内每晚都有《圣象峨眉》大型情景音舞诗画旅游文化晚会的表演活动，可以推断每天晚上都有固定的表演。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00074",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的游客在3月和6月的主要活动是什么？",
+    "answer": "3月游客主要是来观赏李花盛开，6月则是来参与李子采摘。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00075",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉三绝有什么营养价值？",
+    "answer": "峨眉三绝有清热益气、延缓衰老的功效。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00076",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山恒迈酒店是否方便前往美食街就餐？",
+    "answer": "是的，由于酒店距东门好吃街仅约10分钟车程，因此前往美食街就餐很方便。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00077",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "藤椒油作为礼品送人合适吗？",
+    "answer": "藤椒油是赠亲朋好友的最佳礼品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00078",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山的西正街曹凉粉店，荞凉粉是否适合那些追求独特口味的游客？",
+    "answer": "是的，根据描述，峨眉山的荞凉粉不同于大众化的酸辣味，具有特别的香辣咸爽的口味，适合追求独特口味的游客。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00079",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙牙桃花村举办桃花节时，会有哪些美食活动？",
+    "answer": "每年3月左右举办的仙牙桃花节期间，村里可能会提供各种小吃以及农家乐中色香味俱全的农家特色菜。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00080",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否提供电话预订服务？",
+    "answer": "根据提供的信息，瑜伽温泉电话为0833-5526888，这表明该温泉可能提供电话预订服务。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00081",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村是否有适合自驾的路线？",
+    "answer": "由于天全村位于峨眉山市绥山镇，距离峨眉山市区仅8公里，可以推断天全村适合自驾游，游客可以通过自驾的方式方便快捷地前往。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00082",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "大佛禅院法物流通处的手工制作商品的灵性来源是什么？",
+    "answer": "手工制作商品的灵性来源于峨眉山高僧大德持咒诵经开光加持。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00083",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "是否有特定的活动时间可以参观峨眉山的天主教堂？",
+    "answer": "根据提供的信息，天主教堂每周日早上举行弥撒，这可能是一个特别的参观活动时间。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00084",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "不同时节去峨眉山旅游，对饮食有什么影响？",
+    "answer": "不同时节去峨眉山旅游，饮食会受到季节性食物的影响。比如，春季可能有更多新鲜的野菜和水果，夏季可能会提供更多清凉解暑的食品，而秋冬季节则可能提供更多温暖的火锅和热食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00085",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《圣象峨眉》演出前是否适合先用餐？",
+    "answer": "演出时间为每晚7点40分，因此可以在演出前安排用餐。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00086",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的杜鹃花最高的分布在何处？",
+    "answer": "峨眉山的杜鹃花分布在海拔500-3099米之间，最高处可能在3099米处。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00087",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《功夫峨眉》灵秀剧场的演出是否包含与野生动植物观察相关的元素？",
+    "answer": "演出内容中没有提到野生动植物观察，主要表现形式包括歌、舞、诗、画、魔术、杂技、民乐等，因此不能确定演出是否包含与野生动植物观察相关的元素。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00088",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "一家三口去灵秀温泉休闲，如果孩子身高1.4米，成人票价是168元，孩子票价是80元，总共需要花费多少？",
+    "answer": "如果一家三口去灵秀温泉休闲，其中两个成年人票价各为168元，一个孩子票价为80元，总共需要花费的金额是：168元 * 2 + 80元 = 416元。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00089",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《只有峨眉山》戏剧幻城的演出有何特别之处？",
+    "answer": "《只有峨眉山》戏剧幻城开创了全新的戏剧表现形式，打破了“室内表演”和“静态观看”的传统戏剧演出模式，融入了“戏剧幻城”的概念，通过不同的场景讲述发生在峨眉山的故事，让观众跟随故事主人公一起探索人生真谛。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00090",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否在峨眉山景区内？",
+    "answer": "红珠山温泉位于峨眉山山脚报国寺左侧，因此它在峨眉山景区内。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00091",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在游览红珠山温泉的同时，能否欣赏到峨眉山的自然风光？",
+    "answer": "可以，因为红珠山温泉坐落在红珠湖畔，温泉水池被大自然巧妙安排出诗意般的景观。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00092",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "如果想在灵秀温泉度假，是否能在白天去？",
+    "answer": "不可以，因为灵秀温泉的开放时间是从下午2点开始，不提供白天的开放。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00093",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在清音阁附近是否有适合家庭游客的娱乐设施？",
+    "answer": "清音阁周边主要是自然景观和寺庙，如牛心亭、双桥清音等，没有明确提到适合家庭娱乐的设施，但自然环境和历史文化氛围本身可以为家庭游客提供休闲体验。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00094",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合减压？",
+    "answer": "瑜伽温泉将峨眉山特有的氡温泉与时下都市最佳减压之道的“瑜伽”相结合，因此适合减压",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00095",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "旅博会是否有助于峨眉山旅游业的发展？",
+    "answer": "旅博会有助于峨眉山旅游业的发展，因为旅博会每年可以提高旅游接待游客近五十万人次，这将直接促进旅游业的发展。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00096",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "如果我想在峨眉山尝试当地特色美食，可以去哪里？",
+    "answer": "在峨眉山尝试当地特色美食可以前往食为天美食街，那里有跷脚牛肉、冷串串、麻辣烫、烧烤、萝卜汤、锅边馍、鱼火锅等峨眉山特色美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00097",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "清音阁附近是否有购物中心？",
+    "answer": "根据提供的信息，清音阁附近的描述没有提到任何购物中心。只提到牛心亭、双飞桥和其它一些自然景观和古建筑，没有提及商场或购物中心。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00098",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全李花村是否适合种植经济果木？",
+    "answer": "是的，天全李花村气候适宜，植被良好，适合种植经济果木。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00099",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否与佛教文化相关？",
+    "answer": "瑜伽温泉承载着佛、道、医三种文化，因此与佛教文化相关。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00100",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉的营业时间是否与晚餐时间有冲突？",
+    "answer": "天颐温泉的开放时间从16:00到24:00，这个时间段涵盖了晚餐时间，因此没有冲突，游客可以在晚餐后前往。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00101",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为什么雪魔芋在烹调时更容易入味？",
+    "answer": "雪魔芋冻结后内部形成许多小孔，因此在烹调时更容易入味。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00102",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为什么龙须笋被称为“龙须”？",
+    "answer": "龙须笋状似龙须，因此得名。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00103",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在寺院内执行佛教礼仪是否需要了解合十、问讯、礼拜？",
+    "answer": "是的，根据上下文，寺院内培福的员工需要熟悉了解这些礼节，因为这是佛教信众日常生活中最常用的礼节。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00104",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否有适合在周五晚上泡温泉的时间？",
+    "answer": "瑜伽温泉周五的开放时间为上午10点到凌晨1点，因此周五晚上可以泡温泉。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00105",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉的游览路线是否适合家庭游客？",
+    "answer": "适合，因为红珠山温泉被描述为家庭琐事烦恼的解决方案，这意味着它具有适合家庭游客的环境。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00106",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村适宜在什么季节去游览？",
+    "answer": "天全村适宜在春季和夏季游览，春季（3月左右）可以欣赏李花盛开的美景，夏季（6月左右）可以参与李子采摘的活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00107",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为什么游客会选择购买猴子主题的商品？",
+    "answer": "因为这些憨态可掬的布猴比真猴子温顺许多，至少不会抢走游客的可乐。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00108",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区是否提供与美食相关的演艺？",
+    "answer": "根据提供的信息，峨眉山景区提供了几种演艺活动，但没有直接提到与美食相关的演艺。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00109",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在佛殿内是否可以左绕？",
+    "answer": "不可以，在佛殿内只能右绕（顺时针方向），不可左旋，以示正道。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00110",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游玩红珠山温泉是否能够享受森林和湖光山色？",
+    "answer": "可以，因为红珠山温泉位于红珠湖畔，温泉池隐匿在湖光山色中。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00111",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "洪椿坪周围的自然景观是否适合客房景观？",
+    "answer": "洪椿坪周围的自然景观非常适合客房景观。根据上下文，洪椿坪四周古木扶疏，瑶草奇花，空气湿润，林深雾重，景色宜人。因此，这里的客房可以拥有优美的森林和山景。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00112",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否提供瑜伽课程？",
+    "answer": "可以推测瑜伽温泉提供瑜伽相关活动或体验，因为它将峨眉山的氡温泉与瑜伽相结合。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00113",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区内用餐时，是否可以不遵守肃静、庄严的环境要求？",
+    "answer": "不可以，要保持殿堂肃静、庄严，不可随意坐于殿内或高声言笑。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00114",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《功夫峨眉》演出持续的时间有多长？",
+    "answer": "根据提供的信息，《功夫峨眉》的演出时间是每晚19:30-21:00，持续时长为1小时30分钟。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00115",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否有助于放松身心？",
+    "answer": "是的，峨眉山温泉是心灵最好的导师，能够带走烦恼、杂念和疲乏。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00116",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客是否可以在瑜伽温泉中浴身之外还体验更多？",
+    "answer": "是的，游客在瑜伽温泉中不仅能沐浴身体，还能沐浴心灵，体验自然和禅意。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00117",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉的室外汤区面积是室内温泉会所面积的多少倍？",
+    "answer": "天颐温泉的室外汤区面积约24000平米，而温泉会所营业面积为10000平米，所以室外汤区面积是室内温泉会所面积的2.4倍。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00118",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉是否适合小朋友游玩？",
+    "answer": "根据提供的票价信息，灵秀温泉对1.2米以下的小朋友免费，对1.2至1.5米的小朋友收取80元/人，说明灵秀温泉是适合小朋友游玩的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00119",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的四季变化是否影响当地菜肴的种类？",
+    "answer": "是的，峨眉山的四季变化影响了当地菜肴的种类。春季万物萌动，郁郁葱葱，适合食用清淡菜品；夏季百花争艳，适合食用清凉爽口的菜肴；秋季红叶满山，适合食用滋补的菜肴；冬季银装素裹，适合食用热乎的美食，如火锅等，以应对寒冷气候。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00120",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "一线天栈道两边的景色是怎样的？",
+    "answer": "峡外开阔明朗，峡内险壮清凉，峡内外温差较大，感受强烈。两面险崖绝壁，斜插云空，如同一座大山被利斧逢中劈开，透过疏藤密蔓，枝梢叶尖，只露出蓝天一线。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00121",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为何要去大佛禅院而不是其他地方？",
+    "answer": "大佛禅院是亚洲最宏伟的汉传佛教寺院，每一座殿堂都堪称一件艺术品，是当代汉传“十方丛林”典范，也是去峨眉山祈福朝圣的起点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00122",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉三绝的味道如何？",
+    "answer": "魔芋质地松软、入口香而不腻，野生苦笋和香菇味道纯正。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00123",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "四川旅博天地是否有餐饮区？",
+    "answer": "根据内容描述，四川旅博天地具备完善的吃、住、行游购、娱等配套功能，这意味着它应该包含餐饮区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00124",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙芝竹尖的茶叶是否适合做为峨眉山特色礼品？",
+    "answer": "基于仙芝竹尖茶叶的高品质和独特风味，它适合作为峨眉山特色礼品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00125",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的特色饰品是否与当地的宗教文化有关？",
+    "answer": "是的，加持佛珠、加持普贤佛像这些饰品显然与佛教文化相关。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00126",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山恒迈酒店附近是否容易找到符合高档消费的餐馆？",
+    "answer": "根据文档内容，酒店附近有沃尔玛购物广场和东门好吃街。东门好吃街通常会有不同档次的餐厅，所以可以推测，在东门好吃街，游客可能会找到符合高档消费的餐馆。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00127",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "来天全村游玩的最佳时间是什么时候？",
+    "answer": "由于天全村每年李花盛开的时节以及李子采摘的季节都会吸引大量游客，可以推测最佳时间是3月李花节和6月李子采摘节。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00128",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村如何高效游览？",
+    "answer": "高效游览天全村可以参考以下几点：1）选择春季3月或夏季6月进行游览，可以体验李花节或李子采摘节的活动；2）预先了解当地的特色农产品和生态种植业，合理安排游玩路线；3）提前了解当地交通信息，选择合适的交通方式。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00129",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否适合带家人去放松？",
+    "answer": "红珠山温泉提供温馨私密的环境和多种温泉项目，可以有效缓解家庭琐事带来的烦恼，因此适合带家人去放松。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00130",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客在神水阁游览期间，是否需要额外付费请导游？",
+    "answer": "根据提供的信息，神水阁内没有提供导游服务，因此游客在游览期间无需额外付费请导游。若需要导游服务，则需自行联系相关机构或个人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00131",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《圣象峨眉》的演出是否适合国际游客？",
+    "answer": "《圣象峨眉》的演出适合国际游客，因为它向中外游客展示了一幅幅秀丽、雄奇且极富文化品味的丹青画卷，让游客在欣赏富有浓郁乡土特色的技艺表演中，品味四川独特的民俗风情。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00132",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙芝竹尖茶是否可以作为峨眉山的文化纪念品？",
+    "answer": "可以，因为仙芝竹尖茶具有独特的地域特色，且品质上乘，是峨眉山文化的象征之一。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00133",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山恒迈酒店附近有哪些餐饮区域适合游客用餐？",
+    "answer": "根据提供的信息，峨眉山恒迈酒店距离东门好吃街约10分钟的车程。可以推测东门好吃街是一个适合游客用餐的区域。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00134",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间是否在周末比工作日更长？",
+    "answer": "是的，瑜伽温泉在周末开放时间比工作日更长。周五到周日的开放时间是从上午10点到凌晨1点，而周一到周四是从下午2点到凌晨1点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00135",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在酒店中，儿童是否可以找到娱乐设施进行游玩？",
+    "answer": "可以，酒店内设有儿童乐园，为孩子们提供娱乐设施。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00136",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙牙桃花村的门票是否需要预订？",
+    "answer": "仙牙桃花村的门票是免费的，因此不需要预订。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00137",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山特色美食村是否提供中式亭台楼阁等传统建筑风格的用餐环境？",
+    "answer": "是的，峨眉山特色美食村提供了中国传统的亭、台、楼、阁、廊、榭建筑风格的用餐环境。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00138",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉武术文化体验之旅的最佳徒步时间是多久？",
+    "answer": "根据上下文描述，整个主题之旅全程徒步约8公里，预计需要2-4小时，因此最佳徒步时间建议安排2-4小时。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00139",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋能成为峨眉山特色食品的原因是什么？",
+    "answer": "雪魔芋在峨眉山特殊环境下形成，质地松软，风味独特，容易入味等特性使其成为峨眉山特色食品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00140",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "清音阁附近有否适合拍照的地点？",
+    "answer": "清音阁附近有许多适合拍照的地方，例如牛心亭、双飞桥、黑白二水汇流处的“牛心石”等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00141",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "从瑜伽温泉的描述中，你能推论出它融合了哪些文化？",
+    "answer": "从瑜伽温泉的描述中，可以推断它融合了佛、道、医三种文化。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00142",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙芝竹尖茶叶的冲泡过程有什么特别之处？",
+    "answer": "仙芝竹尖的茶叶冲泡时，茶叶会逐渐舒展，杯中呈现出碧绿澄净的汤色，象征着天与地皆在杯中，沉与浮都是人生。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00143",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉的开放时间是否适合自驾游游客晚上到达后进行游玩？",
+    "answer": "是的，天颐温泉的开放时间从16:00到24:00，适合自驾游游客晚上到达后进行游玩。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00144",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "洪椿坪寺庙的水渠建设是否体现了团队合作精神？",
+    "answer": "是的，德心禅师带领寺里的和尚修建水渠，体现了团队合作精神。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00145",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客在瑜伽温泉中是否可以体验到瑜伽？",
+    "answer": "是的，瑜伽温泉将峨眉山的氡温泉和瑜伽相结合，游客可以在温泉中体验瑜伽。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00146",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山度假区的气候条件适合四季的户外瑜伽或冥想课程吗？",
+    "answer": "根据提供的信息，峨眉山度假区气候温暖湿润，四季分明，夏季平均气温24-26℃，并且有极佳的空气质量和生态环境，这表明度假区的气候条件适合四季进行户外瑜伽或冥想。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00147",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "沃尔玛购物中心是否提供峨眉山特色小吃？",
+    "answer": "是的，沃尔玛等购物中心在峨眉山景区内提供各式小吃，包括地道的峨眉特色小吃。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00148",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "来天全村旅游时能品尝到新鲜的李子吗？",
+    "answer": "可以，因为天全村在六月有李子采摘节，游客可以在此期间品尝到新鲜的李子。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00149",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋的风味独特是基于什么原因？",
+    "answer": "雪魔芋质地松软，入口味鲜，香而不腻，这使得其风味独特。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00150",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "中国四川峨眉山国际武术节能否被认为是一次重要的体育与旅游结合的活动？",
+    "answer": "是的，可以认为中国四川峨眉山国际武术节是一项重要的体育赛事与旅游相结合的体育盛会，因其规格高、阵容大、内容丰富、影响广泛。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00151",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山的天主教堂入口处是否设有与佛教相关的标识？",
+    "answer": "根据提供的信息，天主教堂没有提到设置与佛教相关的标识。因其本身是一个基督教场所，所以入口处的标识更可能与基督教相关。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00152",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "一线天的栈道是如何由旧桥板发展来的？",
+    "answer": "从前江岸陡崖较多，又无桥梁，游人只得涉水踏石而行。后来，僧人来往过此，全靠在石壁上凿石穿孔，横穿进木桩作梁，再在桩上面铺横木条当桥板，人踏上去，栈道吱吱作响，上下闪动。由于峡中阴冷潮湿，木质易腐，1975年，政府出资改用钢筋水泥重建了黑龙江栈道。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00153",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山万佛顶周边景色如何？",
+    "answer": "峨眉山万佛顶周边景色优美，有古树参天、鸟兽众多的原始景观，尤其以冷杉林和林下杜鹃、箭竹丛生的景象为特色。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00154",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在仙牙桃花村举办的桃花节期间，游客可以品尝到哪些特色美食？",
+    "answer": "游客在仙牙桃花村举办的桃花节期间，可以在农家乐里品尝到山腊肉、石磨豆花等农家特色菜。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00155",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为什么文本中没有提到任何酒店的名称？",
+    "answer": "因为文本内容主要涉及佛教文化和礼仪规则，而不是关于峨眉山旅游的住宿信息。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00156",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区，与师父谈话时，是否应该站在师父的上方或路中央？",
+    "answer": "不应站在师父上方或路中央，应保持适当距离，声音要清晰柔和，态度诚恳，如实回答。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00157",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的矿泉饮料“魔水”为什么被称为“魔水”？",
+    "answer": "峨眉山矿泉饮料被称为“魔水”是因为在1984年洛杉矶奥运会时，中国代表团携带了包括峨眉山矿泉饮料在内的五种饮料。日本记者报道中国运动员取得的金牌与中国运动员饮用的神秘东方魔水有关，其中就包括了从峨眉山神水制作的矿泉饮料。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00158",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉景区的营业时间是否适合晚餐时间？",
+    "answer": "天颐温泉的开放时间是从16:00到24:00，这时间段覆盖了晚餐时间，所以适合晚餐时间。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00159",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村是否适合种植经济果木？",
+    "answer": "气候适宜，植被良好，尤其适合经济果木种植。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00160",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "佛寺内是否可以随便上香？",
+    "answer": "不可以，佛前上香时以一支为宜，若要上三支香，则按照特定顺序和位置上香。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00161",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山旅游，如果希望品尝当地的特色水果，哪个季节最适合呢？",
+    "answer": "如果您想品尝当地的特色水果，建议您选择在6月来旅游，因为6月是李子成熟的季节，可以参加李子采摘节，品尝新鲜的李子。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00162",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "周五周一瑜伽温泉的开放时间是？",
+    "answer": "根据给定的信息，周一到周四瑜伽温泉的开放时间是下午2点到凌晨1点，而周五到周日的开放时间是上午10点到凌晨1点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00163",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "怎样才能在灵秀温泉不和人群拥挤？",
+    "answer": "想要避免人群，可以选择在平日的非高峰时段，如刚开门的14:00或者在周日和节假日的13:00，或者选择在晚上的22:00到关门之前的时间去，这个时候人相对较少。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00164",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区和峨秀湖旅游度假区，吃完饭后还可以享受哪些休闲娱乐活动？",
+    "answer": "在峨眉山景区与峨秀湖旅游度假区吃完饭后，可以享受许多休闲娱乐活动，如在峨秀湖边度假、享受温泉养生，进行户外运动等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00165",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "农夫山泉峨眉山工业旅游区的参观路线是否能让游客体验到山野之趣？",
+    "answer": "是的，游客可以沿着山路小道，充分享受山野之趣，看到溪流、高山、树木、竹林、野花及动物。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00166",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客可以在红珠湖边享受温泉吗？",
+    "answer": "可以，因为红珠湖畔设有数十座温泉池，游客可以在湖光山色中享受温泉。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00167",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山旅游时，是否可以在师父房间内随意敲门进入？",
+    "answer": "不可以，在师父房间或办公室应轻扣门三下，应声后才可进入。若无回应，则应离去。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00168",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "徒步登山路线是否会影响我找到用餐地点？",
+    "answer": "徒步登山路线可能会影响你找到用餐地点。因为龙池泗溪沟风景区提供多种户外活动，例如攀爬高山、涉足浅溪等，如果你选择徒步登山，可能会远离景区内供餐点，因此需要提前计划好用餐地点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00169",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区，野生菌是否为素食者提供了良好的营养来源？",
+    "answer": "是的，野生菌为素食者提供了丰富的营养，这无疑使它们成为峨眉山景区内素食者理想的营养来源。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00170",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《峨眉武术》一书对峨眉武术的发展有何影响？",
+    "answer": "《峨眉武术》一书是目前所知有关峨眉武术的最早文献资料，也是峨眉武术自成体系的重要标志，因此它对峨眉武术的发展具有重要的影响。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00171",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山安境·栖麓轻奢精品客栈是否适合聚友畅谈？",
+    "answer": "由于客栈中融入了中式茶道文化的元素，并提供休闲公共区域，因此非常适合聚友畅谈。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00172",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "神水阁泉水是否适合制作客房内的饮用矿泉水？",
+    "answer": "神水阁泉水经过权威部门的检测，含有多种矿物质，清洁卫生，因此适合制作客房内的饮用矿泉水。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00173",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的特色饰品是否仅限于宗教相关的饰品？",
+    "answer": "不完全是，峨眉山灵猴是与当地自然景观相关的饰品，而六牙白象摆件可能也与佛教文化有关。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00174",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客在瑜伽温泉沐浴时，除了身体沐浴外还能体验到什么？",
+    "answer": "游客在瑜伽温泉沐浴时，不只是沐浴身体，还能沐浴心灵，体验到自然与禅意。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00175",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合深夜泡汤？",
+    "answer": "适合，瑜伽温泉的开放时间在周一到周四延长到凌晨1点，周五到周日开放到凌晨1点，因此在深夜时段可以泡汤。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00176",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山恒迈酒店是否距离大佛禅院很近？",
+    "answer": "峨眉山恒迈酒店距离大佛禅院约2公里，所以距离相对较近。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00177",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山旅游期间，有什么特别需要注意的穿着要求吗？",
+    "answer": "在峨眉山旅游期间，游客应该穿着舒适的登山鞋和适合天气变化的衣物。因为峨眉山的海拔变化较大，游客可能会遇到不同的气候条件。此外，游客还需要穿着便于行走的衣服，因为在整个行程中需要徒步行走。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00178",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山宾馆的环境给人带来什么感受？",
+    "answer": "宾馆环境幽美、榕荫如盖、空气清新，是绿色生态的天然氧吧。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00179",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山大庙庙会上有推荐的风景拍摄点吗？",
+    "answer": "峨眉山大庙庙会上有一个推荐的风景拍摄点是通往飞来殿长达2.5公里的路上，那里人头攒动、络绎不绝，能拍摄到热闹的庙会景象。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00180",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客是否可以在神水阁内购买到以神水为原料的产品？",
+    "answer": "根据提供的信息，神水阁内的泉水被加工成啤酒和汽水，这些产品可以在峨眉山山脚下修建的矿泉水食品厂中找到，并且已经被加工成商品。因此，游客可以在山脚下购买到以神水为原料的产品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00181",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游览峨眉山大佛禅院时，是否可以从其建筑布局推断出大致的游览路线？",
+    "answer": "是的，可以。大佛禅院的主体建筑沿着中轴线排布，依次为牌坊、大光明街、山门、孔雀明王殿、弥勒殿、地藏殿、药师殿、文殊殿、观音殿、普贤殿、大雄宝殿、藏经楼等，因此游客可以按照这些依次参观每个殿堂。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00182",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "《功夫峨眉》灵秀剧场的演出时长是多少？",
+    "answer": "演出时长为90分钟",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00183",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否只提供身体的沐浴？",
+    "answer": "瑜伽温泉不仅沐浴身体，还沐浴心灵，并不仅仅限于身体的沐浴",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00184",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "神水阁附近有其他景点或娱乐设施吗？",
+    "answer": "神水阁位于纯阳殿左去3.5公里处，附近没有具体提及娱乐设施，主要以自然景观为主。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00185",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "川芎盐水鸭和雪芽鲍片这两道菜是否都使用了峨眉山的特色食材？",
+    "answer": "是的，川芎盐水鸭中使用了川芎，雪芽鲍片中使用了雪芽茶叶，这些都是峨眉山的特色食材。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00186",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "温泉会所的营业时间是否适合晚餐后去？",
+    "answer": "开放时间为16:00-24:00，晚餐后去是可行的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00187",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否一周七天都有开放？",
+    "answer": "瑜伽温泉一周七天都有开放，但开放时间有所不同。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00188",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "川芎盐水鸭和雪芽鲍片是峨眉山的招牌菜吗？",
+    "answer": "可以认为川芎盐水鸭和雪芽鲍片是峨眉山的招牌菜，因为它们结合了当地的特色食材和创新做法，体现了峨眉山的饮食文化。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00189",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否可以进行瑜伽活动？",
+    "answer": "瑜伽温泉将峨眉山特有的氡温泉与时下都市最佳减压之道的“瑜伽”相结合，因此可以进行瑜伽活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00190",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游览峨眉山景区后，可以返回峨秀湖旅游度假区享用美食吗？",
+    "answer": "可以，因为峨秀湖旅游度假区位于峨眉山景区与市区的联接地带，游客可以在游览完景区后回度假区享受当地的美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00191",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "龙池泗溪沟风景区是否提供电影院设施？",
+    "answer": "根据上下文，龙池泗溪沟风景区主要是提供自然风景和户外活动，并没有提到电影院设施。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00192",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山恒迈酒店的消费档次是属于高档、中档还是经济型？",
+    "answer": "根据酒店的描述，酒店采用欧陆风情装饰，并强调华丽典雅的环境，结合金可儿睡眠床垫和干湿分区的卫浴间设计，这些细节通常与中高档消费档次的酒店相关联。因此可以推测，峨眉山恒迈酒店的消费档次可能属于中高档。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00193",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉雪芽适合什么样的茶叶爱好者？",
+    "answer": "峨眉雪芽适合喜欢口感清醇淡雅，喜欢香气清香馥郁且色泽嫩绿油润的茶叶爱好者。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00194",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否提供一种放松心灵的文化体验？",
+    "answer": "是的，红珠山温泉提供了一种放松心灵的文化体验。通过温泉体验，游客可以消除家庭琐事带来的烦恼，名利物欲引出的杂念，以及工作事业导致的疲乏。结合佛音环境，这为游客提供了一种心灵导师般的放松体验。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00195",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "从峨眉山市到仙牙桃花村适合家庭的交通方式有哪些？",
+    "answer": "适合家庭的交通方式包括自驾和包车。自驾可以自由安排行程，包车则更加方便，无需担心山路驾驶问题。自驾车辆可以轻松到达仙牙村，而包车则可以让家庭成员更加舒适地享受旅途。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00196",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "息心所内是否有酒吧？",
+    "answer": "根据描述，息心所是法师们闭关修行的清净之地，且强调了静谧、禅修的特点，因此可以推断息心所内不会有酒吧。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00197",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "根据给定信息，魔芋、苦笋、香菇的烹饪方式有何共同点？",
+    "answer": "用魔芋、苦笋、香菇烹制而成",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00198",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山天主教堂是否提供与佛教相关的艺术展示？",
+    "answer": "天主教堂主要展示的是基督教相关艺术品，例如耶稣苦像、若瑟像和圣母像，并没有提到提供佛教艺术展示。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00199",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "遇仙洞内储藏的食物是否容易腐烂？",
+    "answer": "根据上下文可知，遇仙洞内储放的新鲜蔬菜经久不黄不腐，甚至快枯萎的蔬果放在里面一天之内可以回青。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00200",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合寻求放松的商务人士？",
+    "answer": "瑜伽温泉适合寻求放松的商务人士，因为它将瑜伽的放松效果与温泉的舒适体验结合在一起，有助于缓解工作压力。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00201",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否以禅意为核心？",
+    "answer": "瑜伽温泉承载着佛、道、医三种文化，且提到沐浴不仅是自然，更是禅意，所以可以推理出其以禅意为核心。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00202",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山是否有相关的特色餐饮体验和与文化相关的饮品？",
+    "answer": "峨眉山有相关的特色餐饮体验，尤其是与神水有关的饮品。神水，又称圣水，其泉水具有独特的保健作用，峨眉山山脚下修建了矿泉水食品厂，将神水加工成啤酒、汽水等，深受国内外饮用者好评。这些饮品被称为“魔水”，与峨眉山文化密切相关。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00203",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "龙须笋的口感是否特别？",
+    "answer": "是的，龙须笋的口感特别，因为它具有鲜香脆嫩的特质。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00204",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的杜鹃花最佳观赏时间是什么时候？",
+    "answer": "根据上下文，峨眉山的杜鹃花从暮春到仲夏都是观赏的好时机。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00205",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山特色美食村是否适合品尝当地特色美食？",
+    "answer": "峨眉山特色美食村汇集了峨眉药膳、峨眉山珍、峨眉小吃、峨眉烧烤、峨眉小厨、峨眉素斋等八大体系，适合品尝当地特色美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00206",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "演出《圣象峨眉》是否向游客展示了四川独特的民俗风情？",
+    "answer": "演出《圣象峨眉》通过展示富有浓郁乡土特色的技艺表演，让游客品味四川独特的民俗风情。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00207",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否可以在文化体验日开放时间之前入场？",
+    "answer": "瑜伽温泉在文化体验日的开放时间是上午10点到凌晨1点，因此在开放时间之前是不能入场的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00208",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "竹叶青生态茗园目前是否开放，是否可以去体验游船？",
+    "answer": "不可以，因为竹叶青生态茗园目前停业整改。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00209",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的气候特点对当地美食有何影响？",
+    "answer": "峨眉山气候湿润多雾，四季分明，夏季凉爽，冬季有雪。这样的气候特点造就了当地独特的饮食文化，例如夏季清爽的冷串串、麻辣烫等食物适合消暑，冬季则有热腾腾的跷脚牛肉、鱼火锅等美食，以温暖身体。另外，峨眉山盛产中药材，所以许多当地美食烹饪时会加入草药，有助于养生保健。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00210",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "德心禅师是如何引水到洪椿坪的？",
+    "answer": "德心禅师和众和尚修了一条水渠，并得到了仙子帮助使用锡杖念咒语凿通了坚硬的岩石，使天池水能流到山下的水渠里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00211",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的温泉泡汤与当地美食之间是否有关联？",
+    "answer": "存在关联性。峨眉山的温泉属川中之最，冬天在山脚下泡温泉是极好的体验，此时人们可能会选择食用一些热乎的美食，如跷脚牛肉、各种火锅等，以保持身体温暖，并享受美食与温泉的双重舒适体验。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00212",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "上文提到的川芎盐水鸭和雪芽鲍片这些菜式是否展示了峨眉山景区的独特餐饮文化？",
+    "answer": "是的，川芎盐水鸭和雪芽鲍片这两道菜式利用了峨眉山特有的食材和草药，展示了当地独特的餐饮文化。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00213",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区内的杜鹃花与佛教有什么关系？",
+    "answer": "峨眉山景区内的杜鹃花被称为“佛花”，因其被认为是在佛祖成道的地方盛开，所以具有佛教意义。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00214",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "隐奢逸境•拈花溪的入住环境如何？",
+    "answer": "隐奢逸境•拈花溪坐落在峨眉山麓，是一个将度假和修禅合二为一的隐居之地。客房引入峨眉福报温泉，结合了花艺与温泉，由知名设计师打造，提供隐逸·禅居体验。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00215",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山灵芝的具体位置在哪？",
+    "answer": "灵芝生于峨眉山的悬崖之巅，隐于仙雾之中。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00216",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合注重养生的人群？",
+    "answer": "瑜伽温泉融合了佛、道、医三种文化，适合注重养生的人群，因为这里的温泉水含有氡元素和硫磺元素，有助于身体健康。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00217",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "干湿分区的卫浴间是否意味着独立淋浴？",
+    "answer": "可以推断出干湿分区的卫浴间通常配备独立淋浴设施。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00218",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉的开放时间是否适合晚餐后去？",
+    "answer": "天颐温泉的开放时间从16:00到24:00，因此晚餐后去是完全合适的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00219",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "最佳时间去天全李花村品尝当地美食是什么时候？",
+    "answer": "最佳时间是每年的3月李花盛开的时节以及6月李子采摘的季节，这两个时间段可以品尝到新鲜的李子和其他当地美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00220",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "儿童参观灵秀温泉的门票价格是多少？",
+    "answer": "对于身高1.2米以下的儿童，参观灵秀温泉是免费的，而身高在1.2米到1.5米之间的儿童，门票价格是80元/人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00221",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "龙池泗溪沟风景区是否有老人票？",
+    "answer": "没有提及具体的门票优惠政策，可以推测该景区没有老人票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00222",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天池峰上的天池水是否可以自动流至寺庙内？",
+    "answer": "天池水不能自动流到寺庙内，寺庙僧众曾修水渠引水，后来靠禅杖引出的“锡杖泉”解决了饮水问题。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00223",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在酒店内用餐是否可以观赏到峨眉山的风景？",
+    "answer": "可以，在酒店19层的中式茶坊，您可以鸟瞰峨眉山的特色风景。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00224",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在瑜伽温泉可以沐浴身体之外，还能沐浴到什么？",
+    "answer": "瑜伽温泉提到沐浴不仅是身体，也是心灵，不仅是自然，更是禅意，所以可以推理出除身体外还能沐浴心灵和禅意。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00225",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山宾馆是否提供适合游客在安静环境中享受美食的场所？",
+    "answer": "红珠山宾馆的环境优越，周围环绕着自然美景，提供了安静的用餐环境，适合游客在享受美食的同时，还能体验到宁静和舒适。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00226",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "伏虎寺周边是否适合徒步？",
+    "answer": "根据伏虎寺周围有虎溪三桥、布金林等景点，可以推测伏虎寺周边适合徒步。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00227",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区内的峨秀湖旅游度假区是否适合四季饮食？",
+    "answer": "峨眉山景区内的峨秀湖旅游度假区四季分明，气候温暖湿润，拥有适合四季度假的气候条件，因此也适合四季饮食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00228",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间在周末是否早于工作日？",
+    "answer": "是的，在周末瑜伽温泉的开放时间比工作日早。周五到周日的开放时间从上午10点开始，而周一到周四则从下午2点开始。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00229",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "继业禅师为何常去宝现溪听清音？",
+    "answer": "继业禅师常去宝现溪听清音是因为他有这个爱好，并且风雨无阻。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00230",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉每周的开放时间是否完全一样？",
+    "answer": "不完全一样，灵秀温泉在工作日的开放时间是14:00--24:00，而在周六、日和节假日则提前1小时开放，从13:00开始至24:00",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00231",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山御泉湾温泉酒店的餐饮服务是否适合聚会？",
+    "answer": "由于酒店拥有餐饮配套齐全，能够接待大型会议、宴请、演出、展览展示，因此适合聚会。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00232",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在生态猴区喂食灵猴时，是否应该随意地从地上捡食物喂食？",
+    "answer": "在生态猴区喂食灵猴时，不应该随意地从地上捡食物喂食。因为灵猴会误认为这片土地上的食物都是属于自己的，若你从地上拿食物，它会误认为你抢它的东西。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00233",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山的旅游纪念品中，哪些可以作为地方特色食品？",
+    "answer": "在峨眉山的旅游纪念品中，藤椒油可以作为地方特色食品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00234",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区的一日游中，气候条件是否适宜食用哪些冷饮？",
+    "answer": "峨眉山景区气候温暖湿润，四季分明，夏季平均气温为24-26摄氏度，因此在夏季一日游时，可以享受冷饮。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00235",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客想要前往红珠山温泉，需要知道其电话号码吗？",
+    "answer": "游客如果需要预订或者咨询相关信息，知道红珠山温泉的电话号码是很有帮助的，其电话是0833-5592955。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00236",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在“万花初长，寻踪普贤”之旅中，游客们为什么需要经过九岭岗？",
+    "answer": "游客们需要经过九岭岗，因为接下来他们要爬上1800级石阶的钻天坡才能到达洗象池。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00237",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "神水阁是否位于峨眉山的高处？",
+    "answer": "是的，神水阁位于海拔870米的地方，这表明它位于峨眉山的较高位置。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00238",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋是否是峨眉山旅游业中受欢迎的食品？",
+    "answer": "根据上下文，雪魔芋名闻遐迩，是峨眉山特色食品，可以推测出雪魔芋是峨眉山旅游业中受欢迎的食品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00239",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全李花村的气候是否适合在一年中的任何时间品尝当地美食？",
+    "answer": "虽然天全李花村气候温和，但最佳品尝当地美食的时间应该是3月李花节和6月李子采摘节，这两个时间段的水果最为新鲜。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00240",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否适合在周五晚上前往？",
+    "answer": "适合，因为瑜伽温泉在周五到周日的开放时间是上午10点到凌晨1点",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00241",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙牙桃花村是否适合拍照？",
+    "answer": "仙牙村的环境优美，有着连绵起伏的山峦、林木葱茏、薄雾缭绕以及满眼的粉红色桃花，这样的自然风光非常适合拍照。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00242",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "大佛禅院法物流通处的商品是否适合于旅游纪念品？",
+    "answer": "大佛禅院法物流通处的商品因其赋予了佛之灵性和招祥纳吉之意义，适合用作旅游纪念品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00243",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区内的僧人是否可以接受游客提供的不净劣质物品？",
+    "answer": "在峨眉山景区内的寺院中，明确指出不要用不净劣质物品供养佛僧。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00244",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的活动与游客相关吗？",
+    "answer": "是的，天全村每年在李花盛开的时节以及李子采摘的季节有李花节和李子采摘节，会有大量的游客来此地参观。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00245",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村有哪些适合发展乡村旅游的条件？",
+    "answer": "天全村适宜的气候、良好的植被和完善的基础设施以及生态种植业的发展都为发展乡村旅游奠定了良好的基础。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00246",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "当峨眉山景区内师父与客人交谈时，应该如何插嘴？",
+    "answer": "若有事请示，应侧立静候，不得插嘴；若有重要急事，要先说声对不起，然后再请示。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00247",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客提前规划行程时，如何考虑到竹叶青生态茗园目前的状态？",
+    "answer": "游客在计划行程时，需注意竹叶青生态茗园目前处于停业整改状态，因此建议不要将竹叶青生态茗园列入行程安排，以避免行程受阻。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00248",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉在周六的开放时间是什么时候？",
+    "answer": "瑜伽温泉在周六的开放时间是上午10点到凌晨1点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00249",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "如果游客打算参加《只有峨眉山》戏剧幻城的演出，他们需要在什么时候抵达才不会错过开始？",
+    "answer": "游客应该至少在19:30前抵达《只有峨眉山》戏剧幻城，以确保不会错过开始。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00250",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "龙池泗溪沟风景区是否有学生票？",
+    "answer": "没有提及具体的门票优惠政策，可以推测该景区没有学生票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00251",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否接受电话预约？",
+    "answer": "瑜伽温泉提供了联系电话0833-5526888，因此可以推测提供电话预约服务。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00252",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉在周二的开放时间是什么时候？",
+    "answer": "瑜伽温泉在周二的开放时间是下午2点到凌晨1点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00253",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山旅游，游客可以如何通过《圣象峨眉》了解四川民俗风情？",
+    "answer": "游客可以通过欣赏富有浓郁乡土特色的技艺表演，从而品味四川独特的民俗风情。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00254",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村是否适合发展乡村旅游？",
+    "answer": "根据提供的信息，天全村的基础设施和生态种植业的发展，为天全村发展乡村旅游奠定了良好的基础条件。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00255",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间是否适用于所有日子？",
+    "answer": "瑜伽温泉的开放时间不适用于所有日子，周一到周四的开放时间与周五到周日的开放时间不同。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00256",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间是否包括早上的时间？",
+    "answer": "瑜伽温泉在周五到周日的开放时间是上午10点，因此在周五至周日是可以早上去的，而在周一到周四的开放时间则从下午2点开始。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00257",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山红珠山宾馆的酒店氛围是热闹还是安静？",
+    "answer": "红珠山宾馆的氛围更倾向于安静，因为宾馆位于峨眉山麓报国寺旁，周围环境包括古木参天、绿水环绕、鸟语花香，自然环境优美，可以尽享宁静。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00258",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天主教堂是否提供餐饮服务？",
+    "answer": "根据提供的信息，天主教堂内没有提到提供任何餐饮服务。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00259",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在天全李花村是否有特定的节庆活动与食物有关？",
+    "answer": "是的，天全李花村在每年3月举办李花节，在6月举办李子采摘节，这些活动与当地的水果有关。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00260",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在旅游高峰期，良宽诗碑亭附近的游客数量会增加吗？",
+    "answer": "是的，根据上下文描述，良宽诗碑亭作为一个具有独特背景和文化意义的景点，可能会吸引更多的游客。特别是在旅游高峰期，该区域的游客数量通常会增加。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00261",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的温泉最佳游玩时间是什么时候？",
+    "answer": "峨眉山温泉的最佳游玩时间是冬季，在冬季里，游览者可以在山脚下泡温泉，享受温暖。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00262",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "假设我想在灵秀温泉度过一个美好的下午，那么我应该在什么时候到达？",
+    "answer": "为了有一个美好的下午体验，你最好在下午2点（14:00）或周六、周日及节假日的下午1点（13:00）到达温泉。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00263",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "美食街附近是否有提供快餐的购物中心？",
+    "answer": "是的，美食街附近的沃尔玛和大润发等人流集聚的商场提供肯德基、麦当劳等快餐。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00264",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙牙村的农家乐菜肴是否是传统的农家菜？",
+    "answer": "从描述来看，农家乐提供的菜肴包括山腊肉和石磨豆花，这些都是传统的农家菜。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00265",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋的烹饪方法是否会影响它的口感？",
+    "answer": "雪魔芋冻结后内部形成许多小孔，使得在烹调时更容易入味，从而影响其口感。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00266",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否适合解决工作疲劳？",
+    "answer": "根据上下文，温泉可以洗涤心灵，消除工作事业带来的疲乏，因此可以推理出红珠山温泉适合解决工作疲劳。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00267",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋在峨眉山的旅游业中是否具有代表性？",
+    "answer": "雪魔芋是峨眉山特色食品，名闻遐迩，因此在峨眉山的旅游业中具有代表性。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00268",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "杜鹃鸟在峨眉山的传说中有什么特别的象征意义？",
+    "answer": "杜鹃鸟在峨眉山的传说中象征着子规，与望帝有关，代表了春的到来和农事的开始，因此杜鹃花也被赋予了轮回和太阳崇拜的象征意义。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00269",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山传统十景是否包括圣积晚钟、萝峰晴云等景点,这些景点是否直接关联到餐厅卫生情况?",
+    "answer": "峨眉山传统十景包括圣积晚钟、萝峰晴云等景点，但这些景点描述中并未直接关联到餐厅卫生情况。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00270",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "良宽诗碑亭附近是否有其他让人感兴趣的娱乐设施或景点？",
+    "answer": "良宽诗碑亭附近有清音桥及日式凉亭，这些景点增添了一种浓郁的东瀛情调，可能受到游客欢迎。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00271",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天主教堂是否每周都有活动？",
+    "answer": "是的，每周日早上举行弥撒，弥撒完后修女会一起交流和教唱歌曲。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00272",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区内与师父谈话时，是否可以打断师父的讲话？",
+    "answer": "不可以，与师父谈话时，不得冒失打岔。若有事请示，当侧立静候，不得插嘴。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00273",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天全村的游客数量在李花节期间是否会增加？",
+    "answer": "是的，根据描述，每年李花盛开的时节都有大量的游客慕名而来，因此李花节期间游客数量会增加。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00274",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋可以作为峨眉山旅游的纪念品吗？",
+    "answer": "可以。雪魔芋是峨眉山的特色食品，具有独特的风味和国家地理标志保护产品的身份，适合作为纪念品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00275",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "清音阁附近的牛心亭是否具有娱乐功能？",
+    "answer": "牛心亭本身是一个观景亭，没有具体的娱乐功能，但游客可以在亭中欣赏周围美丽的自然景观，起到休闲放松的作用。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00276",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为什么瑜伽温泉融合了瑜伽减压之道？",
+    "answer": "瑜伽温泉结合了时下都市最佳的减压之道——瑜伽，将瑜伽减压之道与温泉相结合，营造一个综合减压和放松的环境。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00277",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "圣积钟的钟声在峨眉山的传播效果怎么样？",
+    "answer": "圣积钟的钟声因是由纯铜铸造，空腹深大，音响的传播力强，钟声敲响时，震彻山谷，声传十里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00278",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区的哪个区域适合购买竹叶青茶作为纪念品？",
+    "answer": "峨眉山山腰上的万年寺、清音阁、白龙洞、黑水寺一带适合购买竹叶青茶作为纪念品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00279",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "天颐温泉是否提供寄存处的价格信息？",
+    "answer": "上下文中没有提供天颐温泉是否提供寄存处，也没有提供寄存处的价格信息。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00280",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的经营是否只限于周末？",
+    "answer": "瑜伽温泉并非仅限于周末经营，周一至周日均有开放时间。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00281",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在瑜伽温泉中，你能体验到哪些特别的元素？",
+    "answer": "从描述中可以推断出，你可以在瑜伽温泉中体验到峨眉山特有的氡温泉、医疗硫磺温泉、以及瑜伽元素。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00282",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山的猴子纪念品有何优势？",
+    "answer": "相比于真猴子，峨眉山的猴子纪念品更加温顺，不会抢走游客的可乐等物品。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00283",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间在周末比平时提前多少小时？",
+    "answer": "瑜伽温泉在周末比平时提前4小时开放，因为周五到周日的开放时间是从上午10点开始，而周一到周四是从下午2点开始。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00284",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉的开放时间是否在吃晚饭的时间段内？",
+    "answer": "灵秀温泉的开放时间是14:00--24:00，周六、日和节假日13:00--24:00，因此是覆盖了吃晚饭的时间段。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00285",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区，观看《功夫峨眉》的表演是否会让游客对峨眉山文化有更深的体验？",
+    "answer": "根据文本描述，表演\"综合运用歌、舞、诗、画、魔术、杂技、民乐、穿越、神话、全息投影等等传统与先进的手法\"，并且\"让人迷醉在博大的峨眉山文化中\"，可以推断观看《功夫峨眉》的表演会让游客对峨眉山文化有更深的体验。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00286",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "在峨眉山景区的纪念游推荐路线中，哪些演艺活动是必看的？",
+    "answer": "在峨眉山景区的纪念游推荐路线中，象城大剧院《圣象峨眉》演艺、峨眉山演艺中心的《功夫峨眉》演艺和《只有峨眉山》戏剧幻城通常是必看的演艺活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00287",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否适合家庭游客？",
+    "answer": "根据描述，温泉能帮助消除家庭琐事带来的烦恼，因此红珠山温泉适合家庭游客。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00288",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山在餐饮文化展示方面是否提及“峨眉三绝”的功效？",
+    "answer": "根据描述，峨眉山在餐饮文化展示方面提到了“峨眉三绝”的功效，包括清热益气和延缓衰老。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00289",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉对人们的烦恼有何帮助？",
+    "answer": "红珠山温泉能让人们在温泉中多次涤荡，劝说，最终，消融烦恼，疲劳和杂念。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00290",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区内的表演活动是否与佛教礼仪有关？",
+    "answer": "可以推理出，峨眉山景区内的表演活动很可能会与佛教礼仪有关，因为上下文中提到了合十、问讯、礼拜等佛教礼仪，并且景区内是佛教文化的重要场所。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00291",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "温泉景点是否在周一至周四早上有运营？",
+    "answer": "不是，瑜伽温泉的周一到周四运营时间是下午2点到凌晨1点，说明早上是没有运营的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00292",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山冬季是否适宜享用火锅等热食？",
+    "answer": "是的。峨眉山冬季气温较低，且有滑雪等活动，享用火锅等热食不仅能够帮助游客抵御寒冷，还能够提供温暖舒适的感觉。因此，峨眉山冬季适宜享用火锅等热食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00293",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "描述一下仙芝竹尖茶叶的泡茶体验？",
+    "answer": "泡仙芝竹尖茶叶时，茶叶仿佛醒着一般等待涅槃般的洗礼，热浪袭来后茶叶欢腾并舒展，把满腹澄碧的心事对清泉低诉，杯中碧绿澄净，仿佛天与地皆在杯中，沉浮之间宛如人生的沉浮。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00294",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "洪椿坪寺庙的水渠修建速度如何？",
+    "answer": "水渠每天修建一丈，十天修建十丈，显示出较快的修建速度。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00295",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "店家的秘制拌酱是否使得荞凉粉的口味特殊？",
+    "answer": "是的，店家的秘制拌酱让荞凉粉的口感变得香辣咸爽，与众不同。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00296",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山生态猴区的具体位置是什么？",
+    "answer": "在峨眉山走过一线天后，就会到达目前中国最大的自然野生猴区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00297",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山御泉湾温泉酒店是否适合举办宴请活动？",
+    "answer": "根据提供的信息，峨眉山御泉湾温泉酒店餐饮配套齐全，可以举办宴请活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00298",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "大佛禅院法物流通处的商品特色是什么？",
+    "answer": "流通处内的商品特色在于它们是普贤文化的载体，且经过峨眉山高僧大德持咒诵经开光加持，赋予了佛之灵性，成为招祥纳吉之圣物。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00299",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "大佛禅院内每天早上是否有表演活动？",
+    "answer": "根据提供的上下文信息，大佛禅院的表演活动只提到每晚象城大剧院的《圣象峨眉》大型情景音舞诗画旅游文化晚会，没有提到早上有表演活动，因此可以推测大佛禅院内每天早上没有表演活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00300",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙芝竹尖茶种植的地方有哪些特点？",
+    "answer": "仙芝竹尖茶种植在峨眉山高山区终年云雾缭绕的地方。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00301",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "如果游客在天颐温泉只愿意体验到21:00，他们能否充分利用这个时间段？",
+    "answer": "可以，因为天颐温泉的开放时间是从16:00到24:00，因此游客能在21:00之前充分利用这个时间段。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00302",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉的露天浴场中，植被为温泉提供了怎样的环境？",
+    "answer": "灵秀温泉的露天浴场因其绿树环抱和鲜花簇拥的植被覆盖，提供了温馨、柔和的休闲环境。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00303",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "为何雪魔芋烹调时更易入味？",
+    "answer": "因为雪魔芋在冻结之后，内部形成许多小孔，这使得其在烹调时能够更易吸收调料的味道。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00304",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区的一日游推荐路线中，可以品尝哪些当地美食？",
+    "answer": "峨眉山景区的一日游推荐路线中，可以品尝到跷脚牛肉、冷串串、麻辣烫、烧烤、萝卜汤、锅边馍和鱼火锅等当地特色美食。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00305",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "灵秀温泉是否适合带小朋友去？",
+    "answer": "是的，灵秀温泉为小朋友提供了特别的价格，1.2米以下的小朋友免费，1.2--1.5米的小朋友票价是80元/人，很适合带小朋友去。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00306",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否能帮助游客缓解压力？",
+    "answer": "可以。红珠山温泉水可以使游客在体验中放松身心，消除家庭、工作和名利带来的烦恼和疲乏。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00307",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山景区的茶博会举办次数是否多于药博会？",
+    "answer": "是的，峨眉山市已成功举办了4届茶博会，而药博会只有2届。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00308",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "红珠山温泉是否适合用于缓解工作疲劳？",
+    "answer": "根据描述，峨眉山温泉能缓解工作事业导致的疲乏，因此适合用于缓解工作疲劳。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00309",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "假设今天是周五，下午6点是否可以去瑜伽温泉？",
+    "answer": "可以，因为周五瑜伽温泉的开放时间是从上午10点持续到凌晨1点，而下午6点仍然在此区间内。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00310",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉是否提供瑜伽课程？",
+    "answer": "瑜伽温泉将峨眉山特有的氡温泉与时下都市最佳减压之道的“瑜伽”相结合，因此可以推测，瑜伽温泉提供瑜伽课程。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00311",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "雪魔芋为什么能烹调时更易入味？",
+    "answer": "因为雪魔芋冻结之后，内部形成许多小孔，所以烹调时更易入味。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00312",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "若我计划前往峨眉山旅游，怎样安排在灵秀温泉的时间可以最高效？",
+    "answer": "要最高效地利用你的时间，可以选择在周末或节假日前往，因为这些时候开放时间提前到13:00，这样你就多了一个小时的时间享受温泉。另外，你可以早上先去其他景点游览，下午13点或14点前往灵秀温泉，享受温泉直至晚上。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00313",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "象城大剧院《圣象峨眉》的演出是否展示了峨眉山的自然与文化？",
+    "answer": "是的，《圣象峨眉》将峨眉山的自然与文化巧妙结合，展示了峨眉山的特色。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00314",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "峨眉山游客在与师父交谈时，是否可以在师父面前高于师父站立？",
+    "answer": "不可以，与师父谈话时，站立处不可高于师父。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00315",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "游客可以在红珠山温泉享受到什么类型的服务或体验？",
+    "answer": "游客可以在红珠山温泉享受森林温泉，观光温泉，露天观景与温馨私密的完美结合，同时可以享受被温泉水洗涤，让人消除家庭琐事烦恼，工作导致的疲乏，名利物欲引出的杂念。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00316",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "瑜伽温泉的开放时间是否适合使用摄影设备记录夜景？",
+    "answer": "瑜伽温泉在周一到周四的开放时间是从下午2点到凌晨1点，在周五到周日的开放时间是从上午10点到凌晨1点。因此，瑜伽温泉在夜间开放，使用摄影设备记录夜景是可行的。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00317",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "沙溪是否有免费开放日？",
+    "answer": "沙溪全年都是免费开放，所以每一天都可以说是免费开放日。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Doc-Reason-NoCtx-00318",
+    "source": "Doc-Reason-NoCtx",
+    "category": "Reasoning",
+    "question": "仙牙桃花村举办的桃花节是否影响门票限购政策？",
+    "answer": "由于仙牙桃花村的门票是免费的，因此即使在桃花节期间，也不存在门票限购的问题。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  }
+]

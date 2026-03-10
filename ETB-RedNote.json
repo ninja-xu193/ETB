@@ -1,0 +1,5390 @@
+[
+  {
+    "id": "ETB-RedNote-00001",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从高铁站（峨眉山站）怎么去峨眉山游客中心？",
+    "answer": "1. 直接乘坐免费摆渡车，途经报国寺、峨眉山旅游客运中心（报国车站），终点为黄湾游客中心，全程约 15-20 分钟，无需换乘；\n2. 步行至公交站，乘坐 12 路公交车至 “旅游车站” 下车，步行约 300 米即到，全程约 25 分钟，票价约 2 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00003",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的门票价格是多少？",
+    "answer": "1. 淡季 110 元，旺季 160 元；\n2. 学生、儿童、老人等有相应优惠政策",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00005",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的观光车往返雷洞坪费用是多少？",
+    "answer": "往返 90 元，单程 50 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00006",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬峨眉山可以选择哪些路线？",
+    "answer": "一、主流 3 条路线：\n1. 浅绿色：标准徒步路线，最远、最累，风景好；\n2. 深绿色：稍近一些的徒步路线，风景一般，不太推荐；\n3. 蓝色：观光车路线，从游客中心拉到雷洞坪，属懒人路线；\n二、具体细分路线：\n1. 长线（洪椿坪）：报国寺 - 清音阁 - 洪椿坪 - 九岭岗 - 金顶；\n2. 长线（万年寺）：报国寺 - 清音阁 - 万年寺 - 九岭岗 - 金顶；\n3. 中线（洪椿坪）：观光车到五显岗 - 清音阁 - 洪椿坪 - 九岭岗 - 金顶；\n4. 中线（万年寺）：观光车到五显岗 - 清音阁 - 万年寺 - 九岭岗 - 金顶；\n5. 短线：观光车到雷洞坪 - 接引殿 - 太子坪 - 金顶；\n三、轻松游玩路线：观光车到雷洞坪，步行到接引殿，再乘索道或徒步到金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00017",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "仙峰寺是个什么样的地方？",
+    "answer": "是整个徒步路线中最舒服、最巴适的地方，提供免费姜茶、烤火、零食，工作人员会说 “欢迎回家”，体验感温暖，也是推荐的寺庙住宿地点之一",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00018",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺到雷洞坪需要多长时间？",
+    "answer": "个人实际体验约 12.5 小时（含正常拍照、吃饭和休息），建议不要高估自身速度",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00019",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪下山的末班车是什么时候？",
+    "answer": "18:00:00",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00020",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果实在爬不到雷洞坪可以住宿吗？",
+    "answer": "可以，可选择途中的寺庙或山庄住宿，主要集中在：报国寺、伏虎寺、清音阁、万年寺周边、洪椿坪、仙峰寺、遇仙寺、九老洞、洗象池",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00021",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从洗象池到金顶需要多长时间？",
+    "answer": "大约需要 4 小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00022",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬季去爬峨眉山应该带什么冰爪？",
+    "answer": "建议带全包的八齿冰爪，山上补给站买的塑料冰爪和一根绳子套着的冰爪容易掉或坏，且山上冰爪价格特别贵",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00023",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步需要带哪些衣物？",
+    "answer": "1. 上衣：冲锋衣外套（防风防雨）、抓绒内胆或羽绒内胆、速干衣（穿 1 带 1），女生建议带 1 件内衣和内裤；\n2. 裤子：1 条瑜伽裤 + 1 条薄速干裤，另带 1 条瑜伽裤；\n3. 袜子：穿 1 带 1；\n4. 备注：山顶温差大（夏季约 15-25℃，冬季可能低于 0℃），需做好保暖",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00027",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步需要带哪些食物？",
+    "answer": "1. 必备：士力架、肉（不带骨头）、主食（适量，不宜过多）、水果、坚果；\n2. 可选：少量小零食；\n3. 备注：路上有很多补给站，可根据需求补充",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00030",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步需要带什么水具？",
+    "answer": "1. 建议带保温杯（确保能喝热水）；\n2. 矿泉水可在山上购买，价格 8-12 元；\n3. 可带电解质水补充能量",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00033",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步需要带雨具吗？",
+    "answer": "需要带雨衣，山上阴晴不定，衣物打湿后会很麻烦",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00034",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步是否需要带登山杖？",
+    "answer": "可有可无，山下可买竹棍（不建议在报国寺买，往前走一段路有 2 元一根的，且又新又直）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00035",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步需要带充电宝吗？",
+    "answer": "可以带一个，但不用太大（减轻负重），路上基本较少用手机，且山上充电价格较贵",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00036",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步建议几点出发？",
+    "answer": "建议早点爬，最好 6、7 点出发",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00037",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的寺庙可以住宿吗？",
+    "answer": "寺庙都能住宿，其中仙峰寺因提供免费姜汤，体验较好，是较推荐的住宿寺庙",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00038",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从金顶下山的方式是什么？",
+    "answer": "先乘坐金顶索道，然后徒步 30 分钟到雷洞坪，再乘车下山",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00039",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "是否建议老人和孩子在峨眉山游玩？",
+    "answer": "不建议带老人和孩子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00040",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山，到达金顶时的气温大概是多少？",
+    "answer": "金顶气温比山脚低 10-15℃，四季温差大（冬季 - 10℃至 5℃，夏季 10℃～20℃），天气多变，务必携带防风保暖衣物",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00041",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步途中，需要准备的装备有哪些？",
+    "answer": "水 1-2 瓶、速干衣裤、跑鞋、冲锋衣、登山杖、护膝、头灯、充电宝、少许士力架等高热量食物",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00042",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从金顶返回成都的总费用是多少？",
+    "answer": "约 150-300 元，具体因交通方式（高铁 / 大巴 / 包车）及是否含景区下山车费（缆车 + 观光车约 100 元）而异",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00043",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想在山上过夜看日出，应该提前预定哪里的住宿？",
+    "answer": "建议提前定金顶或雷洞坪的酒店",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00044",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从金顶下山的索道费用是多少？",
+    "answer": "下行 55 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00045",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从五显岗到雷洞坪徒步需要多长时间？",
+    "answer": "耗时大约 8 小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00046",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "华严顶到洗象池的徒步过程中有哪些难点？",
+    "answer": "途中有钻天梯，坡度较陡，通常走几十个台阶就要休息几分钟",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00047",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步时遇到猴子应当怎么办？",
+    "answer": "最好把食物拿出来，避免猴子强行拿走包里的东西",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00048",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从五显岗到雷洞坪途中需要携带哪些补给？",
+    "answer": "水和高电解质饮料、高能量便携食物、轻便雨衣 / 冲锋衣、登山杖、头灯或手电筒、防晒霜 / 帽子、少量现金、应急药品",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00049",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "哪个季节适合在峨眉山进行徒步？",
+    "answer": "峨眉山四季各有特色，秋季（9-11 月）是最适合徒步的季节",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00050",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山上能看到哪些中药材？",
+    "answer": "可以看到峨眉黄连和铁皮石斛两味中药",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00051",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第一天晚上住在哪里比较方便第二天爬山？",
+    "answer": "建议住在报国寺附近的民宿",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00052",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第二天爬山的路线从哪里开始，具体时间节点如何？",
+    "answer": "1. 出发地：第二天早上 6:06 从报国寺出发；\n2. 具体路线及时间：报国寺（6:06）— 雷音寺（6:38）— 圣水阁（7:44）— 检票口（7:58）— 广福寺（8:19）— 清音阁（8:22）— 一线天（8:37）— 洪椿坪（9:37）—99 道拐（10:41）— 仙峰寺（12:16）— 遇仙寺（14:04）— 钻天坡（14:52）— 洗象池（15:41）— 灵绝寺（17:50）— 接引殿（18:24）— 梳妆台（18:55）— 太子坪（19:23）— 天门石（19:43）— 金顶（次日 8:00）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00054",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬山途中需要准备哪些物资？",
+    "answer": "水和高电解质饮料、高能量便携食物、轻便雨衣 / 冲锋衣、登山杖、头灯或手电筒、防晒霜 / 帽子、少量现金、应急药品",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00055",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山景区需要支付哪些费用？",
+    "answer": "徒步需支付：门票 160 元、下山索道 55 元、下山汽车 50 元；观光车费用 90 元（往返），具体费用可根据实际行程调整",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00056",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在金顶晚上住哪里比较好？",
+    "answer": "个人曾住金顶大酒店，更推荐欣欣酒店",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00057",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "下山后应该去哪里吃饭？",
+    "answer": "推荐去临江幺哥鳝丝，味道好，且距离高铁站仅 500 米",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00058",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬山途中饮用水的价格如何？",
+    "answer": "登山途中水价较高，个人曾消费 5 瓶电解质水、1 瓶尖叫，也可补充些许温开水",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00059",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山观光车的运营时间是什么时候？",
+    "answer": "7:00-18:00",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00060",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "自驾去峨眉山，到金顶的路线是怎样的？",
+    "answer": "1. 导航至景区 “零公里停车场”（私家车可抵达的最高点）；\n2. 换乘观光车至雷洞坪；\n3. 步行至接引殿，再乘索道或徒步登顶；\n4. 备注：建议携带防风保暖衣物、轻便补给和现金，避开猴群活动区，提前预约车辆入园资格，出行前查询天气及景区实时公告",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00064",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "观光车去金顶的路线是怎样的？",
+    "answer": "山门 - 雷洞坪（约 2 小时）- 接引殿（步行）- 索道或徒步到金顶 - 步行上金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00065",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从伏虎寺到金顶的徒步路线需要多长时间？",
+    "answer": "具体时间取决于个人步行速度，无固定标准，需根据自身情况预估",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00066",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些地方需要坐观光车到达？",
+    "answer": "1. 去万年寺：乘车到万年车站；\n2. 去清音阁：乘车到五显岗车站；\n3. 山门外：黄湾小镇；\n4. 备注：报国寺单独位于峨眉山景区外，无需乘观光车抵达",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00070",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "有哪些峨眉山的多日游推荐行程？",
+    "answer": "峨眉山 + 乐山 2 日游、峨眉山 + 乐山 + 熊猫基地 + 都江堰 3 日游",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00071",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "四月份去峨眉山需要准备什么防寒装备？",
+    "answer": "需应对 “海拔温差 + 阴湿气候”，山顶与山脚温差可达 20℃以上（山脚春日暖阳，山顶冰雪未消），建议准备保暖衣物、手套、帽子和防滑鞋",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00072",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "四月去峨眉山，缆车需要排队多久？",
+    "answer": "排队时间不固定，需根据当日客流量增减",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00073",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "四月的峨眉山金顶能看到什么景观？",
+    "answer": "需关注天气情况，天气晴朗时可能看到金顶、云海等景观，天气不佳则景观体验会受影响",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00074",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从洗象池到雷洞坪徒步需要什么装备？",
+    "answer": "这段路绝大部分路段需要使用冰爪",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00075",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步，如果感到疲惫，可以采取什么措施？",
+    "answer": "可以乘坐索道上金顶，减少徒步压力",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00076",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺到金顶的徒步路线有多长？",
+    "answer": "1. 走仙峰寺线路：全程大约 60 公里；\n2. 走万年寺线路：全程大约 44 公里",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00078",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山过程中会在哪个地方休息？",
+    "answer": "中途可在沿途的寺庙休息",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00079",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步过程中会遇到哪些标志性的路段？",
+    "answer": "会经过一线天、99 道拐、钻天坡",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00080",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山的意义是什么？",
+    "answer": "远非征服海拔 3099 米的山峰，更是一场身体与意志的淬炼、一次文化与自然的对话，也是一面照见生命本质的镜子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00081",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪徒步到金顶需要多长时间？",
+    "answer": "需要 2-3 个小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00082",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的自然风光有哪些特色？",
+    "answer": "具有 “雄、秀、奇、险、幽” 的特色，有奇峰怪石、飞瀑流泉，“一山含四季，十里不同天”，被誉为 “天下第一山水禅林”",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00083",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬峨眉山的难度如何？",
+    "answer": "爬升高度为 3300 米，全程约 27 公里，台阶数量多且密集，通常需要 10 多个小时才能爬完全程，对体力有一定要求",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00084",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "登顶峨眉山能看到哪些奇观？",
+    "answer": "可以看到 “金顶、云海、佛光” 等天下奇观（需结合天气条件，并非每次登顶都能看到）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00085",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "缺少运动的普通上班族爬峨眉山有多难？",
+    "answer": "可能会觉得有一定难度，因路线长、爬升大，体力消耗快，需提前做好准备并合理规划行程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00086",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山全程有多少公里？",
+    "answer": "无统一 “全程” 公里数，需根据具体路线确定（如报国寺到金顶，仙峰寺线约 60 公里，万年寺线约 44 公里）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00087",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山爬到哪个景点可以找到住宿？",
+    "answer": "住宿集中在六大片区：报国寺片区、清音阁片区、万年寺片区、洗象池片区、雷洞坪片区、金顶片区",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00088",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的住宿需要预约吗？",
+    "answer": "不满房的情况下无需预约，旺季或节假日建议提前预约以确保有房",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00089",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在雨季爬峨眉山需要注意什么？",
+    "answer": "最好准备换洗衣物，以防衣物被雨水打湿，同时携带雨衣（避免打伞影响行动），注意路面湿滑",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00090",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在雨天徒步到九十九道拐会遇到什么情况？",
+    "answer": "衣服、裤子容易被雨水打湿，台阶湿滑增加行走难度，需注意防滑并做好衣物防潮",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00091",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬峨眉山时遇到下雨，晚上睡觉怎么办？",
+    "answer": "提前准备换洗衣物，晚上休息时及时更换湿衣物，避免着凉；若住宿处有烘干条件可利用烘干设备",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00092",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬峨眉山时，是否需要带大量的食物补给？",
+    "answer": "不需要带太多，沿途有很多商店和补给站，可随时补充食物和水，减轻徒步负重",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00093",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山脚下住一晚，有哪些住宿选择？",
+    "answer": "推荐住报国寺附近的民宿，淡季价格约 150 元 / 晚，部分民宿含早餐且可免费存放行李",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00094",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "下山时，金顶索道的票价是多少？",
+    "answer": "1. 旺季（通常为 4-10 月）：下行 55 元 / 人；\n2. 淡季（通常为 11 - 次年 3 月）：下行 20 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00096",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到低山的观光车票价是多少？",
+    "answer": "单程票价 50 元 / 人，可抵达报国寺站或黄湾站（低山区域主要站点）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00097",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "夜爬峨眉山需要买门票吗？",
+    "answer": "景区禁止夜爬，为了您的安全，不建议尝试夜爬，不存在 “夜爬是否需买门票” 的相关正常流程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00098",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "为什么网上说夜爬峨眉山是免费的？",
+    "answer": "景区明确禁止夜爬，所谓 “夜爬免费” 的说法无官方依据，且夜爬存在极大安全隐患（如路况不明、野生动物、低温失温等），为安全起见请勿尝试",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00099",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "景区晚上卖票是否能保证夜爬游客的安全？",
+    "answer": "景区禁止夜爬，晚上不提供针对 “夜爬” 的售票服务，也无法保证非官方允许的夜爬行为的安全，请勿冒险",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00100",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果中途被要求补票，应该怎么办？",
+    "answer": "若在爬山过程中被工作人员拦住查票且未购票，需在乘坐景区大巴或缆车时按规定补购门票，避免影响后续行程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00101",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从北京出发，清明节假期（4 月 5 日）从游客中心徒步到金顶，预计需要多长时间？",
+    "answer": "预计需要 10-20 小时，具体取决于个人体能、休息频率及当天天气（4 月山顶可能仍有冰雪，需预留应对特殊路况的时间）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00102",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山遇到体力不支的情况，有什么替代方案？",
+    "answer": "可选择 “缆车 + 大巴” 的组合方式减少徒步：如乘坐索道上金顶，或从途中站点（如洗象池、九老洞附近）下山乘坐观光车，避免硬撑导致身体不适",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00103",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬峨眉山时会遇到雪和雨吗？",
+    "answer": "是的，峨眉山海拔高、天气多变，即使夏季也可能遇雨，冬季（11 - 次年 3 月）高山区（洗象池以上）大概率会下雪，春秋季也可能出现雨雪天气",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00104",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果在雷洞坪购物区住宿，早上几点起床能确保在日出时到达金顶？",
+    "answer": "需先参考当日天气预报中的日出时间（可通过 “峨眉山景区” 官方渠道查询），通常建议提前 1.5-2 小时起床：从雷洞坪徒步到接引殿约 20 分钟，再乘索道或徒步到金顶需 30 分钟 - 1 小时，预留排队、等待的缓冲时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00105",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "上山时选择哪条路线更容易看到猴子？",
+    "answer": "清音阁自然生态猴区是猴子活动最集中的区域，选择 “报国寺 - 清音阁” 或 “五显岗 - 清音阁” 的路线，更容易遇到猴子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00106",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "听说冰爪不是智商税，在峨眉山徒步时真的必须购买吗？",
+    "answer": "冰爪不是智商税，且在特定季节（冬季、初春、深秋）是 “必需品”：高山区（洗象池至金顶）路面易结冰，无冰爪会严重打滑，存在安全风险；夏季无需携带",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00107",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山市区到山脚下坐大巴需要多长时间？",
+    "answer": "可选择市区公交或打车，车程约 15 分钟即可到达山脚（报国寺、黄湾游客中心附近）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00108",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山旅游过程中有没有志愿者帮助？",
+    "answer": "存在系统化的志愿者服务，但服务的覆盖范围（如高山区、低山区）和响应效率会因季节（旺季服务更密集）、区域差异较大，若有需求可咨询景区工作人员获取帮助",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00109",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "体力一般的游客适合在峨眉山徒步吗？",
+    "answer": "需分季节判断：若雪厚（冬季、初春），不建议体力不好的游客徒步高山区（风险高、消耗大）；夏季或秋季（路况较好），可选择低山区短途徒步（如报国寺 - 伏虎寺）或 “观光车 + 短徒步” 的轻松路线（如雷洞坪 - 金顶短徒步）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00110",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带孩子适合走哪条路线？",
+    "answer": "推荐悠闲亲子版路线：报国寺 - 伏虎寺，全程约 1 公里，路程平缓、无陡峭台阶，沿途植被茂密、环境舒适，适合带父母或低龄孩子游玩",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00111",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想进行更长的徒步，有哪些路线选择？",
+    "answer": "推荐挑战出汗不多版路线：报国寺 - 伏虎寺 - 雷音寺 - 纯阳殿 - 圣水阁 - 中峰寺 - 五显岗车站，全程约 10 公里，用时 5-6 小时，难度适中，能达到锻炼效果且不会过度劳累",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00112",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步低山区是否需要门票？",
+    "answer": "低山区（如报国寺、伏虎寺周边步道）徒步无需购买峨眉山景区大门票，但部分独立寺庙（如报国寺、伏虎寺）会单独收取门票",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00113",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "报国寺的门票多少钱？",
+    "answer": "门票 8 元 / 人，寺庙香火旺盛，可入内参观祈福",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00114",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步过程中建议穿什么样的鞋子？",
+    "answer": "建议穿舒适轻便的防滑徒步鞋或运动鞋，因徒步全程路线较长（尤其是高山区），且部分路段为台阶、可能湿滑，防滑、护脚的鞋子能减少疲劳和受伤风险",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00115",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "低山区游玩时，如何返回起点？",
+    "answer": "可在五显岗车站乘坐景区观光车或公交车返回起点（如报国寺），建议自备零钱，购买车票时需出示身份证（实名制要求）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00116",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "低山区里有没有推荐的特色美食？",
+    "answer": "纯阳殿附近有多家农家乐，推荐尝试豆花饭（鲜嫩豆花搭配蘸料，性价比高）和竹筒茶（用新鲜竹筒冲泡的茶叶，带有竹香）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00117",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "低山区有哪些寺庙？",
+    "answer": "主要有两座寺庙：\n1. 报国寺：门票 8 元 / 人；\n2. 伏虎寺：门票 6 元 / 人，可体验斋饭（建议 12 点前前往）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00120",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带孩子从五显岗徒步到雷洞坪需要多长时间？",
+    "answer": "全程大约需要 16 小时，参考行程：从早上 4 点出发，晚上 9 点左右可到达（需根据孩子体力灵活调整，避免夜间徒步）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00121",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从五显岗到雷洞坪的徒步路线难度如何？",
+    "answer": "难度较大：全程约 30 公里，累计爬升 2500 米，几乎全是台阶路；尤其是 “99 道拐” 和 “钻天坡” 路段，坡度陡峭、台阶密集，非常消耗体力，不建议体力一般或带孩子尝试",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00122",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬天带孩子徒步峨眉山，应该注意哪些气温变化？",
+    "answer": "冬季峨眉山气温会降至零下，尤其是洗象池到雷洞坪这段高山区，步道常被积雪覆盖，可能伴随雨夹雪，温度会急速下降（可达 - 5℃至 0℃），需为孩子准备厚羽绒服、保暖手套、帽子、防滑鞋（配冰爪），防止冻伤",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00123",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山从五显岗到雷洞坪的最佳季节是哪个？",
+    "answer": "最佳季节是夏季（6-8 月），此时气温适宜（高山区约 10-20℃），路面无积雪、路况好，徒步难度会小很多；冬季因积雪、结冰，难度大幅增加，不推荐",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00124",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步路线中哪一段是最难的？",
+    "answer": "最难的路段主要有三段：\n1. 99 道拐（猴区至九老洞）：连续陡峭台阶，爬升快；\n2. 仙峰寺到遇仙寺路段：坡度大，体力消耗大；\n3. 钻天坡（遇仙寺至洗象池）：台阶密集且陡，被称为 “体力杀手”",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00128",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从成都到峨眉山高铁需要多长时间？",
+    "answer": "从成都东站或成都南站乘坐高铁到峨眉山站，车程约 1.5 小时（最快 1 小时 20 分钟）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00129",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从北京到峨眉山高铁需要多长时间？",
+    "answer": "从北京西站乘坐高铁到峨眉山站，全程约 10 小时（需直达或经 1 次中转，具体时间以购票时的车次信息为准）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00130",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的全段往返巴士费用是多少？",
+    "answer": "指景区观光车全段（山脚至雷洞坪）往返费用，为 90 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00131",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的猴子需要注意什么？",
+    "answer": "峨眉山猴子较为凶猛，需注意：\n1. 不要将食物暴露在外（包括手提零食袋、打开背包）；\n2. 不要大声喊叫、追逐或对视猴子，避免激怒猴群；\n3. 若遇猴子抢东西，不要强行夺回，可求助附近工作人员",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00135",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山站和峨眉站之间的区别是什么？",
+    "answer": "核心区别是距离景区的远近：\n1. 峨眉山站：距离峨眉山景区山脚（报国寺、黄湾游客中心）近，是前往景区的正确车站；\n2. 峨眉站：距离景区山脚约 10 公里，若误到此处，需额外换乘公交或打车前往景区，耗时更长",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00138",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "该怎么预订峨眉山的门票？",
+    "answer": "建议提前在官方平台购买（如 “峨眉山景区” 微信公众号、“峨眉山识途旅游网”），购票后无需换票，刷身份证即可直接进入景区",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00139",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想坐景区观光车，需要支付多少费用？",
+    "answer": "景区观光车票（往返雷洞坪，覆盖山脚至高山区核心路段）费用为 90 元 / 人；单程票（如雷洞坪至山脚）为 50 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00140",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪到金顶需要步行多久？",
+    "answer": "分两段：\n1. 雷洞坪到接引殿：步行约 20 分钟（平缓路段）；\n2. 接引殿到金顶：若全程徒步，约 1.5-2 小时（台阶路，坡度较大）；若乘坐金顶索道，仅需 10 分钟（含排队时间）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00143",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从成都怎么去峨眉山？",
+    "answer": "推荐高铁出行：从成都东站乘坐高铁到峨眉山站（车程约 1 小时 20 分钟），出站后换乘景区大巴（或免费摆渡车）直达雷洞坪车站（景区高山区）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00144",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "怎么从雷洞坪到金顶？",
+    "answer": "常规路线：从雷洞坪步行 20 分钟到接引殿，然后乘坐金顶索道直达金顶区域（推荐，节省体力）；若选择徒步，从接引殿沿台阶步行 1.5-2 小时可到金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00145",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶索道运营时间是什么时候？",
+    "answer": "运营时间为日出前半小时至 18:00，具体会根据季节和日出时间微调（如冬季日出晚，运营起始时间会推迟），建议提前查询当日时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00146",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶有哪些必打卡的地方？",
+    "answer": "1. 十方普贤像（峨眉山标志性景观，必拍照）；\n2. 金殿 / 银殿（佛教建筑，金碧辉煌，适合参观）；\n3. 观云海、佛光（需晴天，最佳观赏时间为上午，可烧香祈福）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00149",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果从金顶下山，什么时间是末班车？",
+    "answer": "雷洞坪前往山下（报国寺、黄湾游客中心）的景区大巴末班车时间为 18:00，需预留足够时间从金顶下到雷洞坪（建议 17:00 前抵达雷洞坪），避免错过末班车",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00150",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "旺季时，金顶索道排队大概要多久？",
+    "answer": "旺季（4-5 月、10 月）索道排队时间可能超过 1 小时，尤其是上午上山、下午下山的高峰时段，建议乘坐最早的景区大巴到达雷洞坪，尽早乘坐索道以减少排队时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00151",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "怎么查看金顶的实时天气？",
+    "answer": "可以提前搜索 “峨眉山景区直播”，通过官方直播画面查看金顶实时天气（如是否有云海、晴天与否），或在 “峨眉山景区” 微信公众号查询实时天气预告",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00152",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步过程中遇到气候恶劣怎么应对？",
+    "answer": "1. 及时寻找附近的寺庙、补给站或游客中心休息，避免在露天环境停留；\n2. 保持身体活动（轻微走动），防止失温；\n3. 确保携带充足的饮水和高能量食物（如巧克力、士力架），补充体力；\n4. 若天气持续恶劣，联系景区工作人员寻求帮助，必要时放弃徒步下山",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00156",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪到金顶还有多久的路？",
+    "answer": "若全程徒步，从雷洞坪到金顶还需要 2-3 小时（含雷洞坪到接引殿的 20 分钟平缓路，及接引殿到金顶的陡峭台阶路），且这段路比低山区、中山区路段更艰难（坡度大、海拔高，易缺氧）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00157",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步过程中需要注意什么安全问题？",
+    "answer": "1. 防止失温：携带足够的防寒装备（尤其是高山区），避免长时间静止；\n2. 保持体力：匀速行走，定时休息，避免过度劳累；\n3. 补给保障：确保随时有水源和食物，高山区可适量补充高热量食物；\n4. 防滑防摔：雨天或冬季结冰路段，穿防滑鞋、配冰爪；\n5. 防猴群：收好食物，不逗弄猴子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00162",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "乘坐高铁到峨眉山，怎么快速到达山顶？",
+    "answer": "出高铁峨眉山站后，直接前往车站入口附近的景区大巴换乘点，乘坐直达雷洞坪的景区大巴（50 元 / 人，约 1.5 小时），到达雷洞坪后转乘金顶索道（55 元 / 人，旺季），可最快抵达山顶（全程约 3 小时）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00163",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "想提前买景区票务，可以在哪里购买？",
+    "answer": "提前在官方渠道购买：“峨眉山景区” 微信公众号、“峨眉山识途旅游网” 微信公众号，支持购买门票、观光车票、索道票，购票后刷身份证即可使用，无需现场换票",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00164",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "想自驾游峨眉山，停车场在哪里？",
+    "answer": "自驾需导航至景区 “零公里停车场”（这是私家车可抵达的最高点，再往上禁止私家车通行），停车后换乘景区观光车至雷洞坪，后续再前往金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00165",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想在峨眉山看日出，应该选择哪里住宿？",
+    "answer": "建议住雷洞坪：距离金顶较近（徒步 + 索道约 1.5 小时），住宿价格比金顶便宜，且第二天早上无需太早起床；若预算充足，也可住金顶（步行即可到日出观景台，最方便），但需提前查询天气预报（看日出靠运气）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00166",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "夏季去峨眉山，金顶需要准备什么防寒装备？",
+    "answer": "即使是夏季，金顶气温也可能低至 10-15℃，需准备薄外套（如防晒衣、轻羽绒）或抓绒衣，避免因温差大导致着凉；若遇雨天，需携带雨衣（防风防雨）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00167",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山遇到猴子的时候应该怎么做？",
+    "answer": "核心原则：不刺激、不接触，快速通过！具体：\n1. 别掏包（猴子会误以为有食物，可能抢包）；\n2. 别对视（对视会被猴子视为挑衅）；\n3. 保持冷静，快速走开，不要奔跑或喊叫；\n4. 若猴子靠近，可将空书包或外套举在身前阻挡，不要伸手推打",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00172",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有什么必打卡的景点？",
+    "answer": "1. 金顶十方普贤像（标志性景观）；\n2. 万佛顶（峨眉山最高处，可俯瞰群山，需徒步或乘小火车）；\n3. 雷洞坪到接引殿的森林步道（夏季绿树成荫，冬季积雪覆林，风景优美）；\n4. 清音阁自然生态猴区（看猴子互动）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00176",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "进阶轻徒步版路线需要多长时间？",
+    "answer": "进阶轻徒步版路线：报国寺 - 伏虎寺 - 雷音寺，全程约 3 公里，路况平缓，用时 1-2 小时左右，适合有一定徒步基础、想轻度锻炼的游客",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00177",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想要挑战一下自己，可以走哪条路线？",
+    "answer": "推荐挑战出汗不多版路线：报国寺 - 伏虎寺 - 雷音寺 - 纯阳殿 - 圣水阁 - 中峰寺 - 五显岗车站，全程约 10 公里，用时 5-6 小时左右，难度适中，能达到出汗锻炼的效果，又不会过于劳累",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00178",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "低山区的报国寺门票是多少？",
+    "answer": "报国寺门票 8 元 / 人，寺庙历史悠久、香火旺盛，可入内参观祈福，感受佛教文化",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00179",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去伏虎寺有什么特别的体验？",
+    "answer": "1. 门票 6 元 / 人，寺庙环境清幽，可感受佛教文化氛围；\n2. 特色体验：可在 12 点前前往寺庙品尝斋饭，是感受寺院饮食文化的重要体验，斋饭口味清淡、食材新鲜，需提前留意供应时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00181",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山博物馆如何参观？",
+    "answer": "1. 门票政策：免费开放；\n2. 参观方式：从报国寺出来后可步行前往，参观前需在官方公众号（如 “峨眉山景区”）预约，建议预留 1-2 小时参观，可了解峨眉山的自然生态、历史文化及佛教文化等内容",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00183",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从五显岗坐公交车回市区需要注意什么？",
+    "answer": "1. 路线限制：五显岗无直达市区的普通公交车，需先乘坐峨眉山景区观光车，前往黄湾游客中心或峨眉山旅游客运中心（靠近报国寺）；\n2. 换乘提示：到达上述站点后，再换乘市区公交车（如 12 路等）返回市区，建议提前查询市区公交班次时间，避免错过末班车",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00185",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "低山区徒步需要注意什么？",
+    "answer": "1. 猴群防范：低山区猴群数量较少，但仍需收好零食和塑料袋，避免吸引猴子；\n2. 路况与装备：徒步路线全程较长，但坡度较缓，建议穿舒适轻便的防滑徒步鞋或运动鞋，减少脚部疲劳；\n3. 补给提示：低山区靠近山脚，补给便利，无需携带过多物资",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00188",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺到雷洞坪的徒步路线有多长？",
+    "answer": "徒步路程大约 50-55 公里，全程以台阶路为主，累计爬升高度较高，通常需要 1-2 天完成（需在中途寺庙或山庄住宿），适合体力较好、有长期徒步经验的游客",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00189",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺出发到生态猴区需要多长时间？",
+    "answer": "分两种方式：\n1. 乘车 + 徒步：从报国寺乘车到五显岗车站（约 30 分钟），再步行至生态猴区（约 30 分钟 - 1 小时），全程共需 1-1.5 小时；\n2. 全程徒步：从报国寺沿步道直达生态猴区，全程约 15-20 公里，需 5-6 小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00192",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "九十九道拐的爬升高度是多少？",
+    "answer": "九十九道拐为连续陡峭台阶路段，累计爬升高度大概 300 米，路段坡度大、台阶密集，是中山区到高山区的重要难点路段，徒步时需控制节奏，避免过度劳累",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00193",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "仙峰寺有什么推荐的补给品？",
+    "answer": "1. 斋饭：仙峰寺的斋饭是沿途热门补给，口味家常、价格适中，适合徒步中途补充能量；\n2. 姜茶：免费提供姜茶，尤其适合寒冷或雨天饮用，能驱寒暖身，是仙峰寺的特色补给，深受游客好评",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00195",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步时应该带哪些装备？",
+    "answer": "核心装备清单：\n1. 防护类：轻便防晒衣帽（防紫外线）、雨衣（应对突发降雨）；\n2. 辅助类：登山杖（减轻腿部压力，低山区可买 2 元竹棍）、冰爪（冬季高山区必备，防滑）；\n3. 能量类：巧克力、士力架等高热量零食；\n4. 其他：无需携带过多水（沿途有补给站）和充电宝（山上充电贵，手机使用少）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00200",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺徒步到金顶全程大约需要多长时间？",
+    "answer": "时间不固定，主要取决于个人体能、休息次数及路线选择：\n1. 体力较好者：选择效率高的路线，中途短暂休息，1 天可到达（约 12-15 小时）；\n2. 体力一般或想轻松徒步者：分 2 天完成，第一天徒步至仙峰寺或洗象池住宿，第二天登顶，全程约 18-25 小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00203",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步的艰难路段有哪些？",
+    "answer": "主要有三段艰难路段，需重点应对：\n1. 九十九道拐（猴群 — 九老洞）：连续 300 米爬升，台阶陡，易疲劳；\n2. 钻天坡（遇仙寺 — 洗象池）：台阶密集且坡度大，被称为 “体力杀手”，消耗大；\n3. 七里坡（接引殿 — 太子坪）：海拔高，空气较稀薄，徒步时易缺氧，需缓慢前行",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00207",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬峨眉山报国寺到清音阁的路线岔路多吗？",
+    "answer": "报国寺至清音阁的路线岔路较多，部分岔路可能通向小众步道或村落，建议徒步时留意沿途指示牌（景区有清晰路标），或提前下载离线地图，避免走错路线；若不确定，可咨询沿途其他游客或补给站工作人员",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00208",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬季徒步峨眉山需要准备哪些防寒装备？",
+    "answer": "需按 “多层穿搭、全面防护” 原则准备，具体如下：\n1. 上半身：速干内衣（吸汗）+ 抓绒衣（保暖）+ 硬壳冲锋衣（防风防水），可额外携带羽绒衣（日出时穿），外面按需套雨衣；\n2. 下半身：速干裤 + 加绒冲锋裤（防风保暖）；\n3. 脚部：高帮防水徒步鞋 + 冰爪（防滑）；\n4. 其他：厚手套、保暖帽子、面罩（防面部冻伤）、头灯（应对夜间徒步）、雪套（防积雪进入鞋子）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00213",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步中途可以补给吗？补给点有哪些物品？",
+    "answer": "1. 补给可行性：全程都有补给点（主要在寺庙、山庄及沿途商店），无需担心物资短缺；\n2. 补给物品：\n- 饮食类：热饭、炒菜（家常口味）、零食（饼干、火腿肠）、水（8-12 元 / 瓶）、电解质饮料；\n- 装备类：冰爪（山上价格较贵，建议山下提前买）、雨衣；\n- 提示：半山腰（如仙峰寺、洗象池附近）补给价格比低山区高，可按需适量购买",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00218",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步需要注意哪些安全问题？",
+    "answer": "重点关注两大安全风险，做好防范：\n1. 猴群安全：不要将零食袋提在手上，背包拉链拉好，尽量不穿过于鲜艳的衣服（易吸引猴子）；过了清音阁后猴群增多，若遇猴子抢东西，不要强行夺回，可求助附近工作人员；\n2. 冬季安全：高山区路面易结冰，必须佩戴防滑冰爪，避免打滑摔倒；同时注意防寒保暖，防止失温",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00221",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山站到雷洞坪需要多少费用？",
+    "answer": "主要交通费用为景区大巴费：从高铁峨眉山站出站后，可乘坐直达雷洞坪的景区大巴，票价 50 元 / 人；\n提示：高铁峨眉山站的高铁班次相对较少，建议提前查询高铁和景区大巴的发车时间，合理衔接行程，避免长时间等待",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00223",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的金顶缆车票价是多少？",
+    "answer": "票价分旺季和淡季，具体如下：\n1. 旺季（通常为 4-10 月）：往返 120 元 / 人（上行 65 元 / 人 + 下行 55 元 / 人）；\n2. 淡季（通常为 11 - 次年 3 月）：往返 50 元 / 人（上行 30 元 / 人 + 下行 20 元 / 人）；\n提示：缆车票价无学生票等优惠，购票可在现场窗口或官方公众号提前购买，旺季建议错峰乘坐以减少排队时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00227",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些特色美食？",
+    "answer": "有豆腐脑、咔饼、叶儿粑、雪魔芋烧鸭、牛肉汤锅、三合泥等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00228",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "到峨眉山旅游需要准备哪些防寒装备？",
+    "answer": "景区内山顶温差大，一定要穿羽绒服，穿防滑鞋，可买根竹棍。夏季还可准备长袖衣、保暖内衣、帽子和手套等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00229",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如何避免在峨眉山遇到大雾天？",
+    "answer": "关注「峨眉山景区」或「峨眉山识途旅游网」，点击 “直播峨眉”，查看景区实时天气情况，但山上气温多变，无法完全避免。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00230",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带孩子去生态猴区需要注意什么？",
+    "answer": "看管好随身物品，手上别提袋子，手里尽量别拿东西，避免穿着鲜艳衣服，与猴子互动时别刺激它。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00231",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山山顶购物或吃饭时需要注意什么？",
+    "answer": "带点现金，山顶信号较差。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00232",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的日出最佳观赏时间是什么时候？",
+    "answer": "金顶日出时间每天都有变化，很难确定，一般凌晨 6 时至 7 时左右可能是观赏时段。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00233",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的哪些景点适合拍照？",
+    "answer": "金顶日出、十方普贤像悬浮云海（阴雨天更仙）、生态猴区互动、清音阁双桥、洪椿坪古楠林、洗象池云海等都是拍照好去处。金顶舍身崖边可拍云海大片，古寺前可拍红墙金瓦与香火。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00234",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山高铁站到金顶的徒步路线有多远？",
+    "answer": "从高铁站步行到报国寺约为 3 公里，从报国寺到雷洞坪约为 50 - 55km，雷洞坪到金顶约为 7.5km，全程约为 60 - 66km。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00235",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "清音阁大约需要多久可以到达？",
+    "answer": "选择乘车的方式大约在一小时内到达。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00236",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "九十九道拐有多长？",
+    "answer": "有 1840 级陡峭台阶，垂直爬升 300 米。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00237",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪和金顶之间徒步需要多长时间？",
+    "answer": "因个人体力存在差异，徒步时间约为 2 - 4 小时不等，一般大约需要 3 小时。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00238",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "登山需要准备哪些装备？",
+    "answer": "轻便双肩包、防滑登山鞋（冬季需要冰爪）、速干衣 + 防风外套、登山杖、护膝、防晒霜、雨衣、能量零食（巧克力、葡萄糖）、小型水壶等，以轻便易携带为主。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00239",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "门票价格是多少？",
+    "answer": "旺季（1 月 16 日至 12 月 14 日）门票全价为 160 元 / 人，半价票为 80 元 / 人；淡季（12 月 15 日至次年 1 月 15 日）门票全价为 110 元 / 人，半价票为 55 元 / 人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00240",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "下山时可以选择哪些交通工具？",
+    "answer": "可乘坐金顶索道下行、雷洞坪 - 报国寺 / 黄湾观光车。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00241",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在猴区需要注意哪些安全事项？",
+    "answer": "勿挑逗猴子，远离边缘拍照，不要投喂、招猴、逗猴等，妥善保管物品，遇猴拦路索食不要奔跑、惊呼，未成年人需成人陪同，若被猴伤及时求助工作人员。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00242",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步过程中如何分配体力？",
+    "answer": "前半程保存体力，九十九道拐和钻天坡是难点，需合理安排体力应对。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00243",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果时间紧张，第一天可以怎么安排？",
+    "answer": "可直接到金顶，乘车至雷洞坪再乘金顶索道上金顶，下山也选择原交通方式。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00244",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从成都出发到峨眉山需要多长时间？",
+    "answer": "自驾大约需要两个多小时，因出发地点和堵车情况不同，时间无法精确计算，也有说法称约 2 小时车程。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00245",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬山的最佳起点是哪里？",
+    "answer": "没有明确最佳起点，低山区坡度较缓适宜绝大多数人群锻炼，中高山区坡度较陡且海拔上升，适宜体力较好人群。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00246",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺到雷洞坪需要多长时间？",
+    "answer": "时间会根据个人体力和休息次数有所不同，一般需要一天到两天的时间。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00247",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "凌晨几点出发可以赶上峨眉山的日出？",
+    "answer": "住宿在雷洞坪需在日出前 1 个多小时起床，徒步半小时后在接引殿排队上索道去金顶看日出；住宿在金顶，则在日出前 15 分钟起床，再步行 5 - 10 分钟到达金顶观景平台。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00248",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的住宿选择有哪些？",
+    "answer": "全山不同景点都有住宿，徒步线路以寺庙为主，其他区域有酒店、民宿，金顶有金顶大酒店、金顶山庄等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00249",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山需要适应哪些环境条件？",
+    "answer": "峨眉山金顶海拔 3079 米，登顶需要适应高海拔环境，可能会遇到强风、低温、雨雪等恶劣天气，需适应氧气含量较低的环境，防止高山反应。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00250",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的山路有什么特点？",
+    "answer": "山路多为陡峭的石阶和山间小道，需要有良好的脚力和平衡能力。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00251",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山需要哪些体力和耐力？",
+    "answer": "登顶需要经过较长的距离，徒步时间较长，需要有足够的耐力和体力，全程徒步是一项极具挑战性的活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00252",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "对于没有登山经验或体能较差的人，徒步峨眉山会怎样？",
+    "answer": "可能会感到较为吃力，建议尝试低山区徒步。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00253",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山观光车的单程票价是多少？",
+    "answer": "单程从黄湾到雷洞坪的观光车票价为 50 元，全山往返票价为 90 元。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00254",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的门票和观光车票可以用多久？",
+    "answer": "门票和观光车票两个自然日内有效。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00255",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些游览区域？",
+    "answer": "有三大游览区域，分别为山下报国寺周围免费区域、山上清音阁往上徒步区域、山顶雷洞坪以上金顶区域。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00256",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果只想一天游览峨眉山，有哪些推荐的景点？",
+    "answer": "推荐行程为游客中心 - 景区交通车 - 雷洞坪 - 索道 - 金顶 - 索道下 - 报国寺 - 只有峨眉山。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00257",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想在峨眉山待两天，有哪些推荐的行程？",
+    "answer": "Day1：报国寺 - 游客中心 - 雷洞坪 - 索道 - 宿金顶看日落星空；Day2：金顶看日出 -- 索道 - 雷洞坪 - 索道 - 只有峨眉山。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00258",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "缆车从雷洞坪到金顶需要多长时间？",
+    "answer": "3 分钟。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00259",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带小孩去峨眉山，有什么适合小孩玩的地方？",
+    "answer": "可以去报国寺周围免费区域游玩，还可以去只有峨眉山观剧，周末还有游园活动。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00260",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到金顶的路线难度如何？",
+    "answer": "路线难度不大，但海拔较高，体弱者不建议尝试。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00261",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山能看到哪些野生动物？",
+    "answer": "可能会看到猴子等野生动物。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00262",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "佛灯是什么样的奇景呢？",
+    "answer": "佛灯是峨眉山四大奇观之一，出现时能看到一片星星点点的绿光，如一大簇发光的莲花照耀着山壁。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00263",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的缆车费用是多少？",
+    "answer": "金顶索道旺季上行 65 元 / 人，下行 55 元 / 人，往返 120 元；淡季上行 30 元 / 人，下行 20 元 / 人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00264",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从山底到金顶的难度如何？",
+    "answer": "从雷洞坪到金顶的难度不是很大，如果从山底开始爬，难度会有所增加。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00265",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步时，钻天坡之后的下一个主要景点是什么？",
+    "answer": "钻天坡之后马上到达金顶。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00266",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的天气对爬山有什么影响？",
+    "answer": "天气不太好可能会影响景观的观赏，还可能遇到强风、低温、雨雪等恶劣天气，增加爬山难度和风险。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00267",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "夏季去峨眉山，我需要准备哪些防寒装备？",
+    "answer": "建议准备保暖衣物，如长袖衣、保暖内衣、外套、帽子和手套等。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00268",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山是否需要提前预约购票？",
+    "answer": "建议提前预约购票，以避免因门票售罄无法进入景区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00269",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山是否有适合家庭的住宿选择？",
+    "answer": "景区内有多种类型的住宿选择，可根据自身需求和预算选择，金顶区域住宿可赏美景，但需提前预订。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00270",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "全程徒步峨眉山需要多长时间？",
+    "answer": "大约需要两天的时间。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00271",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山适合没有运动习惯的人吗？",
+    "answer": "即使从来不运动的人，也建议尝试低山区徒步，但全程徒步不适合体能差者。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00272",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步峨眉山能看到哪些美景？",
+    "answer": "可以欣赏到雪景和日出，还有沿途的云海、古楠林等景色。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00273",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在金顶的观光车、缆车如何使用？",
+    "answer": "坐观光车、缆车都是刷身份证过闸机，需带好身份证，提前买好票直接去坐车。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00274",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬季去峨眉山如何选择上山方式？",
+    "answer": "可以选择徒步和坐大巴上山，但冬天雪季尽量不要选择徒步，坐大巴和索道省时省力又安全。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00275",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬天去峨眉山，猴子的情况怎么样？",
+    "answer": "大雪封山时，峨眉山的猴子因为食物短缺显得比较可怜，讨食时变得温顺，且很多猴子有残疾。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00276",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶的云海什么时候最壮观？",
+    "answer": "立于舍身崖畔时，云海最为壮观，此时眼前是浩瀚云涛，云雾变化多端，时而如棉絮般轻柔，时而如怒涛般翻涌。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00277",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶四季各有什么特色？",
+    "answer": "春季山花烂漫，古寺檐角与杜鹃争艳；夏季绿意沁心，飞瀑流泉奏响清凉乐章；秋季层林尽染，红叶与金顶佛光共绘油画；冬季银装素裹，雪覆琼楼玉宇，恍若天宫。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00278",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶的佛光奇观在什么条件下最容易看到？",
+    "answer": "在雨后初晴或清晨时最容易捕捉到，此时 “金顶佛光” 的奇幻光影最为明显。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00279",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶最佳的出片地点在哪里？",
+    "answer": "在舍身崖边拍摄云海大片时，侧影剪影仙气十足；在古寺前拍摄红墙金瓦与缭绕香火，氛围感很棒。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00280",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶的交通推荐是什么？",
+    "answer": "景区推荐缆车上山省力，徒步下山赏景，体力好的游客可以挑战全程徒步。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00281",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶需要准备哪些防寒装备？",
+    "answer": "山顶温差大，需准备防风外套和运动鞋，冬季需准备羽绒服、手套等，汉服或浅色长裙更易出片。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00282",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山站到报国寺游客中心怎么去？",
+    "answer": "出站后打车 10 分钟就可以到达。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00283",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶有哪些适合拍照的地点？",
+    "answer": "峨眉山金顶适合拍照的地点包括舍身崖边拍摄云海大片、古寺前拍摄红墙金瓦与缭绕香火\" \"从峨眉山站到报国寺游客中心怎么去？出站后打车10分钟就可以到达报国寺游客中心",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00284",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺到雷洞坪坐景区观光车需要多长时间？",
+    "answer": "坐景区观光车从报国寺到雷洞坪需要 2 小时，山路弯多，建议备晕车药",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00285",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从接引殿到金顶坐缆车需要多长时间？",
+    "answer": "从接引殿坐缆车上金顶只需 5 分钟",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00286",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶缆车上下行的费用分别是多少？",
+    "answer": "金顶缆车上行费用为 65 元，下行费用为 55 元（淡季上行 30 元）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00287",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "遇到猴子时有哪些注意事项？",
+    "answer": "遇到猴子时，千万别对视，手机相机挂脖子上，零食藏包里；背包拉链朝前握紧手机，不要把吃的露出来；勿拿塑料袋，小心被抢",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00288",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶日出的最佳拍摄位置在哪里？",
+    "answer": "金顶日出的最佳拍摄位置是站在普贤菩萨像东侧护栏，可用延时摄影拍云海流动",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00289",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如何在晴天拍到佛光？",
+    "answer": "晴天下午 1-3 点，背对太阳站在舍身崖，影子周围会出现光环",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00290",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "十方普贤像的最佳拍摄角度是什么？",
+    "answer": "十方普贤像的最佳拍摄角度是用广角镜头低角度仰拍，人物站右下角可显得渺小",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00291",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山站到雷洞坪的大巴车票多少钱？",
+    "answer": "90 元，此为全山往返车票",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00292",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "淡季上行金顶索道票价多少？",
+    "answer": "淡季上行金顶索道票价为 30 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00293",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "应该在哪里购买峨眉山的门票和索道票？",
+    "answer": "在小程序 “峨眉山景区识途网” 购买门票和索道票",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00294",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第一天的行程安排是什么？",
+    "answer": "到达住宿点差不多下午四点，放好行李后可在周边游玩，冬天可玩雪、拍照",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00295",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第二天早上几点起床去看日出？",
+    "answer": "具体日出时间住宿店家较清楚，早上起床收拾好后前往观赏即可",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00296",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的猴子凶吗？",
+    "answer": "峨眉山的猴子比较凶，最好不要手拿东西，手机也揣兜里",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00297",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的物价高吗？",
+    "answer": "山上的物价比较高，若行李箱有空余地方，可提前买好东西带去吃",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00298",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "淡季出游适合什么人群？",
+    "answer": "淡季出游非常适合大学生，此时人少景美",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00299",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山哪个地方的水质特别好，适合游览？",
+    "answer": "峨眉山往清音阁步行去的路上，“红掌拨清波” 里的清波水质特别好，又清又绿，非常适合游览",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00300",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果已买峨眉山门票，有什么特别推荐的景点吗？",
+    "answer": "特别推荐峨眉山往清音阁步行去的路上水质极佳的区域",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00301",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带着孩子去峨眉山，有什么适合遛娃的好去处？",
+    "answer": "峨眉山往清音阁步行去的路上，有片水质极佳的区域，非常适合遛娃，享受大自然的美",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00302",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "这个暑假在峨眉山有什么特别推荐的活动吗？",
+    "answer": "特别推荐暑假期间去峨眉山往清音阁步行路上的水质极佳区域，享受大自然的清凉",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00303",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山可以体验什么特别的自然风光？",
+    "answer": "在峨眉山往清音阁步行的路上，可体验水质极佳的 “红掌拨清波”，感觉透心凉，享受大自然的美",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00304",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "上峨眉山需要带什么证件？",
+    "answer": "坐观光车、上山、缆车均需刷身份证过闸机，需带好身份证，提前买好票直接去坐车",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00305",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶有哪些自然奇观可以看？",
+    "answer": "在金顶最高的观景平台可观赏云海、佛光等自然奇观，还能看到金银铜殿、十方普贤像等",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00306",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从零公里停车场到雷洞坪需要多长时间？",
+    "answer": "从零公里乘坐景区大巴到雷洞坪需要 1 小时左右",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00307",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶日出什么时候最好看？",
+    "answer": "想看金顶日出需早去，尽量选择晴天，否则山上可能有大雾，影响观景效果",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00308",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山看金顶需要注意什么？",
+    "answer": "需要穿舒适的鞋子，轻装上阵，不要背太多装备",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00309",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的温差大吗？",
+    "answer": "上山有温差，要准备好外套，出太阳时也需注意防晒",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00310",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "应该选择什么时间登峨眉山金顶观看日出？",
+    "answer": "建议住宿在金顶，清晨迎接第一缕阳光，此时朝霞将云海染成金色，佛光乍现，光环笼罩山巅，景色尤为壮观",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00311",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "夏季在峨眉山金顶可以进行哪些活动？",
+    "answer": "夏季可在峨眉山金顶欣赏绿意沁心的景色，聆听飞瀑流泉奏响的清凉乐章",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00312",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶的舍身崖是不是一个拍照的好地方？",
+    "answer": "是的，舍身崖边拍侧影剪影，仙气值拉满，非常适合拍照",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00313",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶拍摄佛光奇观的最佳时机是什么时候？",
+    "answer": "佛光奇观通常出现在雨后初晴或清晨，此时最容易捕捉到 “金顶佛光” 的奇幻光影",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00314",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到金顶的徒步路线需要多长时间？",
+    "answer": "全程 7.5 公里，快则一个半小时，慢则两个多小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00315",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到金顶的路上有哪些特殊的装备需求？",
+    "answer": "若鞋子不防滑，需准备防滑防水雨靴；冬季需带冰爪和墨镜（冰爪防滑，墨镜防雪地反光眩晕）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00316",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪到金顶的徒步路线上有什么特别的风景？",
+    "answer": "沿途风景很美，还能看到可爱的小松鼠",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00317",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第一天徒步到仙峰寺大概需要走多长时间？",
+    "answer": "大约需要 7 小时 43 分钟",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00318",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山徒步的第一天会经过哪些景点？",
+    "answer": "第一天会经过报国寺、红牛墙、检票口、清音阁、一线天和仙峰寺",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00319",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "仙峰寺提供哪些住宿设施？",
+    "answer": "仙峰寺提供住宿，有免费姜汤、烘干房，可吃素斋，也能洗热水澡",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00320",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "仙峰寺适合哪些人群过夜？",
+    "answer": "仙峰寺适合徒步者以及需要休息的游客过夜",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00321",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "12 月爬峨眉山时，路面是否会下雪或者结冰？",
+    "answer": "12 月爬峨眉山时，路面可能会下雪或者结冰",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00322",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "万年寺供奉的是哪位佛像？",
+    "answer": "万年寺内供奉着普贤菩萨",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00323",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "哪个寺庙适合在春季和秋季去祈福？",
+    "answer": "万年寺的香火常年不绝，尤其是春季和秋季，是祈福的好去处",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00324",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山山顶天气多变，需要携带哪些装备？",
+    "answer": "建议自备雨衣（山顶也有出售雨衣），还需根据温差准备外套等",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00325",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "怎样防止峨眉山的猴子抢东西？",
+    "answer": "背包拉链朝前，握紧手机，不要把吃的露出来",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00326",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山，如何避免遇到骗子导游？",
+    "answer": "自称 “内部通道” 的导游都是骗子，需提高警惕",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00327",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "实在不知道怎么玩峨眉山，有没有建议？",
+    "answer": "可以选择跟团玩，还能顺路去乐山，性价比高且省心",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00328",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从成都到峨眉山应该坐哪个火车站？",
+    "answer": "高铁需坐到峨眉山站，而非峨眉站",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00329",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "亲子家庭在峨眉山出游如何选择交通方式？",
+    "answer": "可以选择包车或定制游，一家人一辆车，方便又自由",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00330",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山看日出需要提前做什么准备？",
+    "answer": "提前查看天气情况，住宿选择雷洞坪或金顶，节假日记得提前预定住宿",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00331",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山哪个季节最适合拍照？",
+    "answer": "峨眉山春夏时节生机勃勃、绿意盎然，冬季有别样的雪景风情，均适合拍照",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00332",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山适合周末短途游吗？",
+    "answer": "峨眉山是成都周边游的理想地点，适合周末短途游",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00333",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶的日出云海是什么时候可以观赏？",
+    "answer": "观赏金顶日出云海需凌晨登顶，看太阳从翻滚的云海中跃出，此时佛光可能若隐若现",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00334",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些适合拍照的机位？",
+    "answer": "打卡机位包括金顶佛光、清音阁双桥、万年寺穹顶和猴区互动场景",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00335",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶佛光最佳拍摄时间和角度是什么？",
+    "answer": "机位：十方普贤像正前方台阶，用广角镜头低角度拍摄，将金佛与云海同框；时间：日出后 1 小时或日落前，光线柔和自带 “佛系滤镜”",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00336",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山生态猴区与猴子互动时需要注意什么？",
+    "answer": "在生态猴区与 “峨眉山原住民” 藏酋猴互动时，别拿塑料袋，小心被猴子抢东西",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00337",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的门票和交通费用分别是多少？",
+    "answer": "门票：旺季 160 元 / 人；交通费用：全山往返观光车 90 元 / 人，金顶索道上行 65 元 / 人、下行 55 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00338",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山景区交通有哪些选择？",
+    "answer": "景区交通选择包括：1. 观光车：全程往返 90 元 / 人；2. 缆车：接引殿→金顶，上行 65 元 / 人、下行 55 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00339",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些必尝的特色美食？",
+    "answer": "必尝特色美食包括豆腐脑 + 咔饼、叶儿粑、雪魔芋烧鸭、牛肉汤锅、三合泥等；下山推荐尝 “峨眉豆腐脑”+“叶儿粑”，市区 “搅三搅” 小吃店是本地人强推选择",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00340",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山游览时需要准备哪些装备？",
+    "answer": "需准备：轻便双肩包、防滑登山鞋（冬季需冰爪）、速干衣 + 防风外套（山顶温差大）、登山杖、护膝、防晒霜、雨衣、能量零食（巧克力、葡萄糖）、小型水壶；穿舒适鞋子，轻装上阵，避免背过多装备",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00341",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山夏季有哪些适合的活动？",
+    "answer": "夏季适合的活动包括享受清凉避暑、观赏自然风光（如金顶奇观、灵猴互动、自然秘境）、在清音阁附近水质佳区域游玩",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00342",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山冬季游玩需要注意什么？",
+    "answer": "冬季游玩需注意：1. 保暖，山顶温差大，备防风外套、羽绒服、手套等；2. 防滑，路面可能有雪或冰，穿防滑鞋（可备冰爪），石阶湿滑需谨慎；3. 安全，尽量选择坐大巴和索道上山，避免徒步；4. 防晒，雪地反光强，可备墨镜防眩晕",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00343",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山雷洞坪前往金顶需要什么交通工具？",
+    "answer": "从峨眉山雷洞坪出发，需先徒步半个小时到接引殿，然后排队乘坐缆车去金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00344",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶日出的行程需要提前准备什么？",
+    "answer": "峨眉山金顶日出行程需提前：1. 查看天气预报，选择晴天前往；2. 提前预定高山区（雷洞坪或金顶）的住宿，方便次日观赏",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00345",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶上的普贤菩萨金像是不是世界上最高的？",
+    "answer": "是的，峨眉山金顶上的普贤菩萨金像是世界上最高的十方普贤菩萨金像",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00346",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山是哪个菩萨的道场？",
+    "answer": "峨眉山是普贤菩萨的道场",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00347",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "新年到峨眉山祈福，和家人朋友一起能做什么？",
+    "answer": "新年和家人朋友到峨眉山可：1. 前往金顶一睹十方普贤圣像风采；2. 在万年寺等寺庙祈福，祈求新的一年心愿实现；3. 欣赏山顶雪景（冬季）或自然风光",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00348",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "普贤菩萨骑乘的是什么动物？",
+    "answer": "普贤菩萨骑乘的是六牙白象，寓意着步步稳健、行事圆满",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00349",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "普贤菩萨默默守护的是哪些属相的朋友？",
+    "answer": "普贤菩萨默默守护龙、蛇属相的朋友",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00350",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬季徒步上山需要注意哪些装备？",
+    "answer": "冬季徒步上山需带装备：冰爪（防滑）、墨镜（防雪地反光导致眩晕）、防风外套、羽绒服、手套、防滑防水雨靴、保暖内衣、小型水壶（装热水）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00351",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "游览峨眉山的最佳时间是多久？",
+    "answer": "若时间充足，建议游览 2 天，可充分体验各区域景点；1 天时间仅能游览雷洞坪 - 金顶段，会错过清音阁、万年寺等诸多美景",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00352",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带小孩游览峨眉山是否适合徒步？",
+    "answer": "带小孩尽量不要选择全程徒步，推荐交通方式：先乘坐观光车，再短途徒步，最后乘坐索道上金顶，下山按原路线返回，减少孩子体力消耗",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00353",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "观光车的票价是多少？",
+    "answer": "观光车全山往返票价为 90 元 / 人，单程从黄湾到雷洞坪的观光车票价为 50 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00354",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶索道的票价是多少？",
+    "answer": "金顶索道旺季：上行 65 元 / 人、下行 55 元 / 人；淡季：上行 30 元 / 人、下行 20 元 / 人；且金顶索道和万年寺索道旺季上行票价均为 65 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00355",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山春季最佳旅游时间是什么时候？",
+    "answer": "峨眉山春季最佳旅游时间：3 月（山脚樱花、桃花盛开）、4 月（中高山珙桐绽放）、5 月（金顶到雷洞坪高山杜鹃盛花期）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00356",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些适合摄影的地方？",
+    "answer": "适合摄影的地方包括：1. 金顶（日出、云海、佛光、十方普贤像、舍身崖剪影）；2. 清音阁（双桥、周边水质佳区域、春季古寺樱花）；3. 洪椿坪（古楠林）；4. 洗象池（云海）；5. 万年寺（穹顶、普贤菩萨像、春季香火祈福场景）；6. 生态猴区（猴群互动）；7. 报国寺和伏虎寺（山脚古寺樱花，晨光中花瓣飘落禅意足）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00357",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山半山腰住宿需要提前预订吗？",
+    "answer": "在峨眉山半山腰住宿建议提前预订，尤其是旅游旺季（如节假日、周末），避免出现无房情况，影响行程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00358",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山金顶下来后可以游览哪些景点？",
+    "answer": "从峨眉山金顶下来后，可换乘观光车前往万年寺游览，或到清音阁、一线天、生态猴区等景点游玩",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00359",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在乐山市区推荐的美食有哪些？",
+    "answer": "在乐山市区推荐的美食有跷脚牛肉、甜皮鸭等",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00360",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶看山的最佳时间是什么时候？",
+    "answer": "置身峨眉山金顶看山的最佳时间：1. 清晨，可同时观赏日出和云海，山峦在云海中若隐若现；2. 晴天午后，云雾较少，能清晰看到山峦起伏；3. 日落前，夕阳映照山峦，景色壮丽",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00361",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山金顶拜佛有哪些注意事项？",
+    "answer": "在峨眉山金顶拜佛需注意：1. 心怀虔诚，遵守寺庙礼仪，不大声喧哗、不随意触碰佛像；2. 按寺庙指引有序祈福，可根据指引上香；3. 尊重宗教信仰，不随意拍照（若寺庙禁止拍照需遵守）；4. 祈福后可静静观赏佛像和周边景色，感受禅意氛围",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00362",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山古老寺庙前祈福有什么感受？",
+    "answer": "在古老的寺庙前，虔诚地合上双手，默默许下心愿，佛光普照下心灵会变得平静，仿佛获得了一场灵魂的洗礼",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00363",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的猴子喜欢和游客互动吗？",
+    "answer": "峨眉山的猴子机智聪明、灵活狡猾，时常能给游客带来欢乐；当游客拿出美食时，它们会调皮地向游客面前跳跃，仿佛在邀请游客一起玩耍",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00364",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶有哪些徒步路线？",
+    "answer": "峨眉山金顶徒步路线以挑战型为主，需攀登陡峭山路，过程中可体验身体与大自然的亲密接触，沿途风景如诗如画，每一步都是对勇气与坚持的肯定（具体可从雷洞坪徒步至接引殿，再选择继续徒步或乘缆车至金顶，也可从报国寺等低山区全程徒步上行）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00365",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山山脚泡温泉的好处有哪些？",
+    "answer": "征战峨眉山后，在山脚泡温泉能让疲惫的身体得到放松与舒缓，闭上眼睛可享受温泉带来的宁静与惬意，缓解登山后的肌肉酸痛",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00366",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山遇到自称 “内部通道” 的导游怎么办？",
+    "answer": "野生导游套路多，自称 “内部通道” 的全是骗子，需提高警惕，拒绝跟随此类导游，通过正规渠道规划行程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00367",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山应该坐哪个火车站？",
+    "answer": "高铁需坐到 “峨眉山站”，而非 “峨眉站”，避免坐错车站影响行程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00368",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山 3 月的花海有哪些亮点？",
+    "answer": "3 月峨眉山山脚樱花、桃花盛开，报国寺、伏虎寺在朱红墙体的映衬下，花海与古寺相映成趣，景致优美",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00369",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的门票价格是多少？学生有优惠吗？",
+    "answer": "峨眉山门票价格为 160 元 / 人（旺季）；学生可享受半价优惠，即 80 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00370",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪附近有猴子可以看吗？",
+    "answer": "雷洞坪的灵觉寺附近可以看到猴子，但观赏时要注意与猴子保持安全距离，避免挑逗或喂食",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00371",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在雷洞坪吃饭有什么推荐吗？",
+    "answer": "雷洞坪有饭店提供餐饮服务，可在某团等平台团购套餐性价比更高；单独购买的话，泡面价格约为 10 元 / 桶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00372",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "无梁砖殿内的其他佛像有哪些？",
+    "answer": "无梁砖殿内除主要佛像外，还有 24 件圆觉铁像、280 件小铁佛像以及 1 件小铜佛像",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00373",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从五显岗徒步到金顶需要多长时间？",
+    "answer": "从五显岗徒步到金顶大约需要 10 个多小时，具体时间因个人体力、休息频率而异",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00374",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "爬山过程中是否需要补充能量？",
+    "answer": "爬山过程中需要及时补充能量，可携带巧克力、葡萄糖、能量棒等零食，避免因体力不足影响行程",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00375",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的日出时间是什么时候？",
+    "answer": "峨眉山的日出时间每天不同，一般可参考景区实时天气预报或住宿店家提供的当日日出时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00376",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到接引殿的徒步路线有多长？",
+    "answer": "雷洞坪到接引殿的徒步路线大约 1 公里",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00377",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪到接引殿的徒步路线难不难？",
+    "answer": "该路线难度不大，仅有少许楼梯，路况相对平缓，适合大多数游客步行",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00378",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山景区观光车有哪些站点？",
+    "answer": "峨眉山景区观光车主要站点包括黄湾游客中心、报国寺客运中心、五显岗车站、万年寺车站、零公里车站、雷洞坪车站等",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00379",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山雷洞坪到接引殿的路上能拍到哪些美景？",
+    "answer": "雷洞坪到接引殿的路上有多处适合拍照的地点，可拍摄山间云雾、植被景观（如冷杉林），冬季还能拍摄雪景与步道相映的景致",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00380",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "2 月底去峨眉山能看到哪些自然景观？",
+    "answer": "2 月底去峨眉山大概率能看到日出、日照金山、云海、日落和星空，但佛光受天气影响较大，不一定能看到",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00381",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从重庆到峨眉山的动车票多少钱？",
+    "answer": "去程（重庆西 - 峨眉山站）动车票约 129 元 / 人，返程（峨眉山站 - 重庆北站）动车票约 141 元 / 人，具体票价以购票时实时显示为准",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00382",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第一天到达峨眉山后有什么建议行程？",
+    "answer": "到达后可先存行李，前往报国寺游览（香花券 8 元 / 人）；午餐推荐尝试荣生萝卜汤（人均约 30 元）；下午乘坐观光车直达万年寺（观光车票 40 元 / 人），游览万年寺",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00383",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山遇到猴子需要注意什么？",
+    "answer": "遇到猴子时保持冷漠表情，不要与猴子对视；零食用塑料口袋装好后藏进背包，避免暴露食物引发猴子争抢；不挑逗、不投喂猴子，保护自身安全",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00384",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪的住宿价格区间是多少？",
+    "answer": "雷洞坪住宿价格区间大致在 400～600 元 / 晚，具体价格受住宿类型（酒店 / 民宿）、季节（旺季 / 淡季）、房型影响",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00385",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想观赏日出，应该选择哪里住宿？",
+    "answer": "若渴望观赏日出，金顶住宿是最佳选择，可近距离抵达观景平台，但价格相对较高，约 800～1000 元 / 晚；也可选择雷洞坪住宿，需提前 1 小时起床徒步至接引殿乘缆车前往金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00386",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第一天抵达峨眉山站后的行程安排是什么？",
+    "answer": "抵达峨眉山站后，乘坐公交前往报国寺游客中心，办理入住手续并稍作休息；之后游览报国寺周边景点，傍晚品尝当地特色美食",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00387",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第二天的行程安排是什么？",
+    "answer": "第二天早起乘坐观光大巴前往雷洞坪，换乘缆车上金顶，游览金顶并感受佛教文化的庄严与神圣；若时间充裕且体力允许，可选择步行下山，沿途欣赏步道美景",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00388",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果选择步行下山，需要注意哪些安全事项？",
+    "answer": "步行下山务必注意防滑，尤其是冬季积雪路段，冰爪是必备工具；选择平缓路线，控制下山速度，避免因台阶陡峭导致膝盖受伤；随身携带饮用水，及时补充水分",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00389",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步路线适合哪些年龄段的人？",
+    "answer": "峨眉山徒步路线适合 60 后、70 后、90 后的三人行，低山区路线（如报国寺至清音阁）坡度缓，适合各年龄段；中高山区路线坡度较陡，更适合体力较好的人群",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00390",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步需要准备哪些装备？",
+    "answer": "需准备身份证（刷证通行）、充电宝（保障电子设备电量）、零食（补充能量）；衣物方面需带轻薄羽绒服、速干运动衣、防晒衣、春款冲锋衣；还可携带登山杖、护膝（保护膝盖）、防滑登山鞋",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00391",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步如何选择最近的高铁站？",
+    "answer": "峨眉山徒步最近的高铁站是 “峨眉山站”，不要在 “峨眉站” 下车，避免多走冤枉路",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00392",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步过程中是否有野生物种出现？",
+    "answer": "徒步过程中沿途植被茂盛，可能遇到松鼠、野生猴等野生动物，遇到时保持安全距离，不随意投喂",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00393",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步过程中如何应对热冷交替？",
+    "answer": "建议穿速干衣服打底，多带两件打底衣、袜子和内衣裤，便于出汗后更换；根据气温变化及时增减外套，避免因冷热交替引发感冒",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00394",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步途中可以住宿在哪里？",
+    "answer": "徒步途中可在仙峰寺住宿，三人间价格约 360 元 / 晚，提供公共浴室（热水充足）、洗衣服和烘干设施，还有免费茶室可供休息",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00395",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "仙峰寺住宿条件如何？",
+    "answer": "仙峰寺住宿条件较好，三人间 360 元 / 晚，配备公共浴室（热水给力）、洗衣及烘干设施，设有免费茶室；寺庙规模大，僧人和工作人员态度友好，适合徒步游客休息",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00396",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "提前到峨眉山景区游览哪些景点比较好？",
+    "answer": "建议提前一天到达峨眉山景区，下午或傍晚可游览山下的报国寺、伏虎寺等景点，感受佛教文化氛围，同时适应环境，为次日登山做准备",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00397",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果住在雷洞坪，第二天早上需要几点起床去金顶看日出？",
+    "answer": "住在雷洞坪需根据当日日出时间提前起床，一般需预留足够时间（约 1.5 小时），起床后徒步半小时到接引殿排队乘缆车，确保在日出前抵达金顶观景平台",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00398",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山看日出需要准备哪些保暖衣物？",
+    "answer": "峨眉山金顶海拔较高，昼夜温差大，清晨气温低；即使是夏季，也需准备厚外套、毛衣、冲锋衣；冬季需携带羽绒服、围巾、手套、帽子，全面做好保暖措施",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00399",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山冬季看日出需要准备哪些防滑鞋具？",
+    "answer": "冬季看日出若需步行，尤其是路面有露水或结冰时，防滑登山鞋或运动鞋是必备；可额外准备一副冰爪，套在鞋子上增加摩擦力，提升行走安全性",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00400",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山看日出需要准备哪些其他物品？",
+    "answer": "需准备相机或手机（确保电量充足，用于拍摄）、手电筒或头灯（清晨照明，方便行走）、保温杯（装热水，保暖解渴）、零食（如巧克力，补充能量）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00401",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "看完日出后，可以在金顶游览哪些景点？",
+    "answer": "看完日出后，可在金顶游览华藏寺、十方普贤像等核心景点，欣赏峨眉山壮丽景色；天气晴朗时还能远眺贡嘎雪山等周边山脉",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00402",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想在金顶上住一晚，应该选择哪一天到达金顶？",
+    "answer": "应在前一天到达金顶并入住，这样可省去次日早起上山的麻烦，方便清晨直接前往观景平台观赏日出",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00403",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在金顶观日出有哪些好的机位？",
+    "answer": "金顶观日出的好机位包括：金顶殿南侧平台、金顶东北侧、金顶正东边、金顶东边往下走的小道、金顶西北侧",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00404",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果金顶平台人多，应该去哪里观日出？",
+    "answer": "若金顶平台人多，可前往金顶东边往下走的小道，此处人流量较少，视野开阔，适合拍照观赏日出",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00405",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬天来峨眉山滑雪需要提前做哪些准备？",
+    "answer": "冬季滑雪需做好保暖，携带帽子、手套、口罩，避免皮肤暴露受冻；务必提前购买冰爪，便于上下山行走；无需购买防湿鞋套（穿后走路更滑），雪地靴、皮靴、登山鞋沾雪后无需担心",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00406",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从接引殿到金顶的索道票价是多少？",
+    "answer": "从接引殿到金顶的索道票价：上行 65 元 / 人，下行 55 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00407",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山门票的价格是多少？学生和老人有优惠吗？",
+    "answer": "峨眉山门票价格为 160 元 / 人（旺季）；学生可享半价优惠（80 元 / 人），65 岁以上老人免门票，乐山本地居民凭身份证购票仅需 10 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00408",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "金顶上的佛光一般什么时候出现？",
+    "answer": "金顶上的佛光一般出现在下午 2-5 点，观赏时可注意观察佛像周边光影变化，抓住最佳观赏时机",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00409",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在金顶能看到哪些震撼的景色？",
+    "answer": "金顶景色宛如 “仙境落凡尘”，云海、日出、佛光、十方普贤像等景致极具震撼力，不过手机拍摄较难完全还原实景的壮美",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00410",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉金顶的日出是否值得一看？",
+    "answer": "峨眉山金顶的日出非常值得一看，若有机会前往，建议在金顶观赏一次日出，感受清晨阳光穿透云海的壮丽景象",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00411",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的滑雪场在哪里？",
+    "answer": "峨眉山的滑雪场位于雷洞坪区域，是四川海拔最高的滑雪场（海拔 2500 米），内设初级雪道和雪圈区，适合滑雪初学者体验",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00412",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山雪景有哪些核心观赏地？",
+    "answer": "峨眉山雪景的核心观赏地包括金顶（雪覆佛殿与云海交融）、雷洞坪至接引殿（冰雪长廊）、洗象池（雪景与古寺相映）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00413",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山雪后初晴时的景观有何特色？",
+    "answer": "峨眉山雪后初晴时，云海与雪景相互交融，阳光洒在晶莹的冰雪表面，折射出璀璨光芒，整个景区宛如 “琉璃世界”，景致纯净壮丽",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00414",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山雪景观赏最佳时节适合做哪些体验活动？",
+    "answer": "峨眉山雪景观赏期间（冬季）适合参与滑雪（雷洞坪滑雪场）、泡山脚温泉（缓解疲劳）、佛教朝圣巡礼（金顶、万年寺等），还可体验 “扫雪烹茶” 的禅意活动",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00415",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山高山区有哪些住宿推荐？",
+    "answer": "峨眉山高山区住宿推荐：金顶大酒店（地理位置优越，方便观赏日出）；雷洞坪滑雪场周边的民宿（性价比高，适合前往滑雪场或次日乘缆车登金顶）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00416",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从零公里到雷洞坪的观光车票往返价格是多少？",
+    "answer": "从零公里乘坐观光车到雷洞坪的往返车票价格为 50 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00417",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山的金顶索道有哪些类型？",
+    "answer": "峨眉山的金顶索道有两种类型：一种是往返索道（可容纳 6 人），另一种是往复式索道",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00418",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到金顶索道的阶梯适合哪些人群？",
+    "answer": "从雷洞坪到金顶索道的阶梯设置合理，坡度较缓，即使携带老人、小孩同行，也不会感到特别劳累，适合家庭或体力一般的游客",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00419",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山第一天的美食推荐有哪些？",
+    "answer": "峨眉山第一天美食推荐：非遗临江鳝丝、小方桌本地菜；夜宵可尝试烧烤摊的烤五花肉，搭配峨眉雪汽水，感受当地特色风味",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00420",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "自驾到峨眉山需要注意哪些驾驶问题？",
+    "answer": "自驾到峨眉山需注意：山脚至零公里路段弯道较多，路况较复杂，新手驾驶员需谨慎驾驶；冬季该路段可能有积雪或结冰，需做好车辆防滑措施（如换雪地胎）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00421",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山到乐山大佛坐公交比坐动车更便捷吗？",
+    "answer": "是的，从峨眉山到乐山大佛乘坐 601 路公交比 “峨眉山站乘动车至乐山站，再转车到乐山大佛” 更便捷，可减少换乘次数，节省时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00422",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬季在峨眉山，怎样才能更容易看到佛光？",
+    "answer": "冬季晴日时在峨眉山更容易看到佛光，建议随身携带防风外套，应对山顶低温与强风，同时关注景区实时天气，选择晴朗天气前往金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00423",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "下山时，有哪些特别的活动或景点推荐？",
+    "answer": "下山时别错过接引殿至雷洞坪的 “仙界索道”，可乘坐索道欣赏沿途雪景或山林景观，节省体力的同时感受不同视角的美景",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00424",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山金顶，晚上能看到怎样的景色？",
+    "answer": "峨眉山金顶的夜晚，月光会将冷杉林映照得如同 “琉璃镜”，佛殿飞檐上仿佛挑起几粒星子；云海退去时，还能看到山下城市的灯火，景致静谧浪漫",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00425",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "打算带孩子去峨眉山，晚上住宿有什么推荐？",
+    "answer": "带孩子去峨眉山，建议夜宿金顶，不仅能方便次日观看日出、落日、星空，还能大概率观赏到佛光，减少孩子往返登山的体力消耗",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00426",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山金顶观日出需要注意哪些安全事项？",
+    "answer": "去金顶观日出需注意：冬季需携带防风外套，应对山顶低温和可能的大风天气；清晨步行时注意路面防滑，可携带手电筒照明；避免前往未开发区域，确保在安全观景平台内活动",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00427",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "想要在峨眉山金顶看到最美的景色，应该选择什么季节去？",
+    "answer": "想要在峨眉山金顶看到最美景色，建议选择冬季晴日前往，此时更容易看到佛光，且雪景与云海交融的景致极具特色；出行时需随身带件防风外套，应对山顶低温",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00428",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山金顶，除了日出和佛光，还有什么值得一看的景点？",
+    "answer": "在峨眉山金顶，除日出和佛光外，可前往华藏寺听早课，感受梵音诵经的禅意；夜晚还能在月光下欣赏冷杉林与佛殿的静谧美景，远眺周边山脉轮廓",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00429",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺出发到峨眉山金顶需要多长时间？",
+    "answer": "从报国寺出发，全程徒步至峨眉山金顶大约需要 16 个小时，具体时间受个人体力、休息次数、路况影响（若中途乘坐观光车或缆车，可缩短行程时间）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00430",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步过程中有哪些补给点？",
+    "answer": "峨眉山徒步过程中的补给点包括：仙峰寺（提供免费热姜茶和热毛巾）、洗象池寺庙（可购买 30 元 / 人的斋饭，补充体力）；沿途部分站点还可购买饮用水和零食",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00431",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步的高海拔路段有哪些防滑措施？",
+    "answer": "峨眉山徒步高海拔路段（冬季从洗象池开始）需穿羽绒服保暖，同时戴上冰爪增加鞋底摩擦力，防止路面结冰打滑；选择有防滑纹路的登山鞋，避免穿光滑鞋底的鞋子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00432",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步过程中需要注意哪些安全问题？",
+    "answer": "徒步过程中需注意：在冰雪覆盖的下坡台阶行走时，要特别小心滑倒（部分路段无护栏）；不随意偏离步道，避免进入未开发区域；关注身体状况，若出现高反（头晕、胸闷），及时休息或下山",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00433",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步过程中，沿途有哪些主要景点？",
+    "answer": "徒步沿途主要景点包括报国寺、雷音寺、清音阁、万年寺、一线天、洪椿坪、九老洞、仙峰寺、洗象池、雷洞坪、金顶等，可根据行程节奏选择性游览",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00434",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山徒步时应该准备哪些基本装备？",
+    "answer": "应该准备登山杖、羽绒服、冰爪等装备，以应对冰雪路",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00435",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的最高峰叫做什么？",
+    "answer": "峨眉山的最高峰叫做万佛顶，海拔 3099 米",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00436",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的景区面积有多大？",
+    "answer": "峨眉山的景区面积是 154 平方公里",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00437",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山在中国有什么特殊地位？",
+    "answer": "峨眉山是中国四大佛教名山之一",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00438",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山适合进行哪些活动？",
+    "answer": "峨眉山适合登顶看风景、人文景点分享、自然景区登山观光等活动",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00439",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的低山区包括哪些主要景点？",
+    "answer": "峨眉山的低山区主要包括报国寺和伏虎寺两座寺院",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00440",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "进入峨眉山的第一座寺院是什么？",
+    "answer": "进入峨眉山的第一座寺院是报国寺",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00441",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "报国寺的建筑风格是什么？",
+    "answer": "报国寺的建筑风格是西南常见的穿斗式，每进都是个大四合院",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00442",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "报国寺有哪些主要殿宇？",
+    "answer": "报国寺的主要殿宇有山门、弥勒殿、大雄宝殿、七佛宝殿和普贤殿",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00443",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的七佛宝殿主要供奉的是什么？",
+    "answer": "峨眉山的七佛宝殿主要供奉释迦牟尼佛前的七位过去佛，象征着佛的涅槃与新生",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00444",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺到伏虎寺的路线怎么走？",
+    "answer": "从报国寺到伏虎寺有一公里多的路，可以溯虎溪而上，一路清幽；年纪大的游客也有车道可选",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00445",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "伏虎寺有什么特色？",
+    "answer": "伏虎寺是尼众寺院，给人一种比报国寺更清净的感觉，这里的离垢园据说从来没有落叶和灰尘，还存有一座万历年铸造的圣积寺铜塔（上面有 4700 多雕像），以及规模宏大的 500 罗汉堂",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00446",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "游览完这两座寺院后，非徒步的游客应如何继续登山？",
+    "answer": "非徒步的游客在游览完这两座寺院后，应回到游客中心换车继续登山",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00447",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从成都东站如何到达峨眉山景区？",
+    "answer": "乘坐高铁从成都东站到峨眉山站，注意不是峨眉站",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00448",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山站到雷洞坪怎么坐景区大巴？",
+    "answer": "下高铁站后，站内有指示牌引导去坐峨眉山景区大巴，直达雷洞坪，车票可在公众号或现场买",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00449",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "住在金顶，什么时候出发看日出比较合适？",
+    "answer": "住金顶的小伙伴可以多睡会儿，但也别太晚出门占观景好位置",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00450",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬季峨眉山山上易结冰，需要准备什么防滑装备？",
+    "answer": "冬季山上易结冰，冰爪必备，不然走路容易滑倒",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00451",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "可以在峨眉山山上购买什么食物补充体力？",
+    "answer": "可以自带一些高热量小零食，如巧克力、士力架等，补充体力；山上也有商店，不过价格会稍贵些",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00452",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山金顶可以买到什么纪念品？",
+    "answer": "在峨眉山金顶可以请到佛光注平安扣，它带着峨眉山特有的气息，每看一眼，佛光的震撼画面就会在脑海中浮现，时刻感受到幸运的陪伴",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00453",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山，需要准备哪些防晒措施？",
+    "answer": "峨眉山海拔 3079 米，金顶上紫外线特别强烈，即使在阴天也会晒伤，所以需要做好防晒措施",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00454",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪附近的民宿是否方便到达景区？",
+    "answer": "雷洞坪就已经在峨眉山景区核心景区内了",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00455",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "4 月初去峨眉山应该穿哪些衣物？",
+    "answer": "4 月初去峨眉山，穿秋裤➕冲锋裤，薄羽绒服加外套就可以，不需要冰爪",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00456",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "天冷时候峨眉山的猴子是否容易攻击游客？",
+    "answer": "天冷时候峨眉山的猴子不容易出来，即使出来也不会特别凶，但要避免提塑料袋以免引起它们的注意",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00457",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "能否在峨眉山的金顶上自己带香？",
+    "answer": "可以在峨眉山的金顶上自己带香",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00458",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "凌晨 12 点半开始徒步到金顶需要多长时间？",
+    "answer": "峨眉山景区不允许夜爬，为了您的安全也不要去夜爬",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00459",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果去峨眉山太晚了会错过什么？",
+    "answer": "如果去峨眉山太晚会赶不上最后一班上山的观光车",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00460",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山能看到日落吗？",
+    "answer": "可以，在峨眉山金顶住宿可以看到日落",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00461",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果在峨眉山遇到猴子，应该怎么做来保护自己？",
+    "answer": "不要主动喂食，保持安全距离，不要挑衅猴子，使用工具自卫但不要无端去打它，没工具就做出弹弓的姿势吓它，不要穿亮色衣服，不要带塑料袋，提前把贵重物品收好，如果被攻击一定要拿出气势吓它",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00462",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山游玩时，需要避免穿什么类型的衣服？",
+    "answer": "不要穿亮色衣服",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00463",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "带了塑料袋去峨眉山，可以使用它们吗？",
+    "answer": "不要带塑料袋，因为猴子可能会因此攻击你",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00464",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果在峨眉山遇到猴子，是否可以主动喂食它们？",
+    "answer": "不要主动喂食猴子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00465",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果峨眉山的猴子攻击我，应该如何应对？",
+    "answer": "如果被攻击，一定要拿出气势吓它",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00466",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山游玩时，是否需要提前把贵重物品收好？",
+    "answer": "提前把贵重物品收好，避免猴子的骚扰",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00467",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山四季景色有何不同？",
+    "answer": "峨眉山四季皆景：春天，漫山遍野的野花竞相绽放，一片生机勃勃；夏天，满目翠绿，清幽凉爽，是避暑的好去处；秋天，枫叶如丹，银杏金黄，山林色彩斑斓；冬天，银装素裹，宛如冰雪仙境",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00468",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的标志性景点是什么？",
+    "answer": "金顶金佛是峨眉山的标志性景点，48 米高的四面十方普贤金像庄严肃穆，在阳光照耀下熠熠生辉",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00469",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的金顶附近有什么自然景观？",
+    "answer": "金顶的周边常常云海翻腾，如梦似幻，运气好时还能邂逅神奇的佛光",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00470",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山有哪些著名的寺庙？",
+    "answer": "峨眉山比较著名的寺庙有金顶华藏寺、万年寺、报国寺、清音阁、洗象池、伏虎寺、洪椿坪、仙峰寺",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00471",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的佛教氛围体现在哪些方面？",
+    "answer": "山间寺庙错落，报国寺古朴厚重，清音阁流水潺潺，浓厚的佛教氛围与绝美自然风光相融，让峨眉山成为无数游客心驰神往之地",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00472",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想看峨眉山的日出，需要提前一天上山住吗？",
+    "answer": "想看日出的话，需要提前一天在雷洞坪或者金顶住宿",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00473",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的往复式缆车和循环式缆车有什么区别？",
+    "answer": "往复式缆车 20 分钟一趟，一次 100 人；循环式缆车每个车厢坐 6 人，循环式缆车走远一点点，但是排队久；往复式缆车可以拍到云，循环式缆车比较舒服，但是拍到比较多是树",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00474",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在哪里可以购买峨眉山的往返车票、缆车票和市民门票？",
+    "answer": "可以在微信关注 “峨眉山识途旅游网” 公众号，通过官方小程序购买",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00475",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山站到雷洞坪需要多长时间？",
+    "answer": "大约需要两个小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00476",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在金顶可以进行哪些活动？",
+    "answer": "可以上还愿香，走一圈",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00477",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果不防水的鞋子在峨眉山该如何处理？",
+    "answer": "可以在雷洞坪买一个塑胶鞋套，防水还防滑",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00478",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "哪个季节是峨眉山看雪的最佳时期？",
+    "answer": "冬季是峨眉山看雪的季节，特别是金顶、雷洞坪是观赏雪景的好地方",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00479",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山看雪景，哪些地方是最佳观赏点？",
+    "answer": "峨眉山金顶是观赏雪景的最佳地点之一",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00480",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从缆车下车到金顶大酒店需要步行多久？",
+    "answer": "约 3 分钟",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00481",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "淡季时，乘坐索道上山的费用是多少？",
+    "answer": "淡季索道上行费用为 30 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00482",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "淡季时，乘坐观光车大巴往返全山的费用是多少？",
+    "answer": "景区观光车没有淡季优惠，其中全山往返费用为 90 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00483",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山冬季旅游，需要携带哪些防寒装备？",
+    "answer": "建议携带帽子、手套、围巾、暖宝宝等防寒装备",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00484",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果乘坐观光车大巴容易晕车，需要准备什么？",
+    "answer": "可以准备晕车药以减轻晕车症状",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00485",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "要看日出应该提前多久查看天气？",
+    "answer": "提前几天看天气比较准确",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00486",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪步行到接引寺缆车站需要多长时间？",
+    "answer": "步行约 1.5 公里，耗时大约半个小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00487",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从金顶下山可以走哪些路线？",
+    "answer": "从金顶下山可以原路返回雷洞坪，再乘坐观光车至万年寺停车场，然后乘坐万年索道上行到达万年寺，然后沿白龙洞→清音阁→广福寺→圣水禅院→雷音寺→报国寺的步道下山，全程约 15 公里",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00488",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从金顶下山回峨眉山站的交通费用是多少？",
+    "answer": "金顶索道下行 55 元 / 人，雷洞坪到山脚的观光车票单程 50 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00489",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从金顶下山的路难走吗？",
+    "answer": "我觉得徒步下山路轻松一些，但是会很伤膝盖哦",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00490",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "去峨眉山需要带哪些轻便的食物？",
+    "answer": "自己从山下带些轻便的食物",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00491",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "乘坐缆车上金顶需要多长时间？",
+    "answer": "100 人一车厢，3 分钟就到了",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00492",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在金顶停留多长时间为宜？",
+    "answer": "大概停留 1 小时到 3 小时左右，可以根据您的时间来安排",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00493",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从接引殿到雷洞坪需要多久？",
+    "answer": "继续徒步半小时左右到雷洞坪候车",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00494",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山山路上是否有小吃店？",
+    "answer": "山上以及路程中有很多小吃店，可以轻装上阵，带点水和些许补给即可",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00495",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的天气有时会有大雾，缆车上去的景色如何？",
+    "answer": "结果缆车上去的一刹那，晴空万里，壮阔的云海就呈现在眼前，真的让人太激动了",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00496",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "高铁站到峨眉山景区如何买票？",
+    "answer": "提前在网上预订峨眉山门票、观光车票、索道票，在高铁站下车后，可以在高铁站外乘坐发往雷洞坪的观光车，如果错过观光车班次可以从高铁站乘坐公交车到峨眉山旅游客运中心去乘坐",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00497",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "接引殿到金顶可以坐索道吗？",
+    "answer": "可以，接引殿到金顶需要排队乘坐索道，乘上索道后 5 分钟左右就能到金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00498",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从接引殿到金顶步行需要多长时间？",
+    "answer": "接引殿到金顶步行需要 2-3 小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00499",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "门票价格是多少？",
+    "answer": "旺季门票全价 160 元 / 人，半价 80 元 / 人（1 月 16 日至 12 月 14 日）；淡季门票全价 110 元 / 人，半价 55 元 / 人（12 月 15 日至次年 1 月 15 日）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00500",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "全山往返观光车票的价格和路线？",
+    "answer": "全山往返观光车票 90 元 / 人，路线为高铁 / 报国 / 黄湾到雷洞坪",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00501",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "中山往返观光车票的价格和路线？",
+    "answer": "中山往返观光车票 40 元 / 人，路线为高铁 / 报国 / 黄湾到五显岗 / 万年寺",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00502",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山观光车的发车时间是什么时候？",
+    "answer": "4 月 1 日 - 10 月 31 日期间上行到雷洞坪的观光车为早上六点发车，11 月 1 日 - 次年 3 月 31 日期间上行到雷洞坪的观光车为早上七点发车，预计 2 小时左右到达雷洞坪",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00503",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的索道价格是多少？",
+    "answer": "金顶索道上行 65 元，金顶索道下行 55 元；万年索道上行 65 元，万年索道下行 45 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00504",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的淡旺季是什么时候？",
+    "answer": "旺季为 1 月 16 日至 12 月 14 日，淡季为 12 月 15 日至次年 1 月 15 日",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00505",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "想去峨眉山，门票和观光车票一共需要多少钱？",
+    "answer": "门票 160 元，观光车票（全山往返）90 元，共计 250 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00506",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山站到黄湾游客中心怎么走？",
+    "answer": "坐高铁到峨眉山站不建议去到黄湾游客中心，直接乘坐公交或者打车去峨眉山旅游客运中心（报国寺车站）乘车",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00507",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "想要上山到金顶，最佳的路线是什么？",
+    "answer": "从峨眉山旅游客运中心乘坐观光车 2 小时到雷洞坪，下车后徒步 1.5 公里到接引殿，排队乘索道去金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00508",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从接引殿到金顶的索道单程价格是多少？",
+    "answer": "金顶索道上行 65 元，金顶索道下行 55 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00509",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "计划在峨眉山上住一晚，哪个地方住宿最合适？",
+    "answer": "预算充足的话，住在金顶最好，可以看日落、日出、星空等美景；其次是雷洞坪，这里有很多民宿，早上可以在日出前提前 1 个多小时出发，乘索道去金顶看日出",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00510",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪有什么特点，如何从雷洞坪去金顶看日出？",
+    "answer": "雷洞坪有很多民宿；早上可在日出前提前 1 个多小时出发，乘索道去金顶看日出",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00511",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "体力不是很好，峨眉山上下山应该怎么走？",
+    "answer": "建议先从峨眉山旅游客运中心乘坐观光车两个小时左右到达雷洞坪，下车后徒步半小时到达接引殿，排队乘坐金顶索道上金顶，下山的时候原路返回",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00512",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "雷洞坪到索道站要走多久？",
+    "answer": "徒步大约 1.5 公里，冬天路上结冰，大约需要半小时",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00513",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "可以开车上峨眉山吗？",
+    "answer": "自驾开车在没有交通管制的时候只能开到零公里，再从一数公里转乘景区观光车上山",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00514",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "冬天去峨眉山，山上需要买冰爪吗？",
+    "answer": "冬天高山区有冰雪道路，建议购买冰爪，注意防滑",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00515",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山上有没有可以吃饭的地方？",
+    "answer": "徒步沿途有不少卖小吃的，也有很多民宿饭店可以吃饭，此外部分寺庙也提供素斋",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00516",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "3 月去峨眉山的门票价格是多少？",
+    "answer": "3 月属于旺季，门票 160 元",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00517",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从峨眉山市区怎么坐公交到景区？",
+    "answer": "公交车无法直接到景区，可以先在峨眉山市区的公交站乘坐公交车到峨眉山旅游客运中心，再转乘景区观光车上山进入景区",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00518",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山的雪景如何？",
+    "answer": "峨眉山上冬天的雪还是很美的！",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00519",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山观光车的全山往返费用是多少？",
+    "answer": "观光车（全山往返）90 元，单程从黄湾到雷洞坪约 2 小时左右",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00520",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从雷洞坪到金顶徒步需要多长时间？",
+    "answer": "单程徒步需要 2-3 小时，体力好的还能提前到达",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00521",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山山顶是否能看到佛像？",
+    "answer": "是的，到达金顶可以看到四面十方普贤金像，景色很震撼",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00522",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "上峨眉山是否推荐徒步？",
+    "answer": "不建议徒步登山，因为徒步上山可能比较辛苦，且花费的时间比较长",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00523",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山是否能看到猴子？",
+    "answer": "峨眉山猴子为野生猴，不一定能看到，不过在清音阁自然生态猴区看到的概率大一些；另外雷洞坪徒步到接引殿的途中也可能会看到猴子",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00524",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果从报国寺开始徒步登山应该何时出发？",
+    "answer": "从报国寺开始全程徒步登山建议从早上 6 点或者 7 点开始出发，下午 17 点左右找地方住宿，第二天一早继续徒步上金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00525",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山冬季徒步路线的难度如何？",
+    "answer": "峨眉山的徒步路线以爬爬爬为主，冬季徒步难度较大，有冰雪道路的时候需要冰爪防滑，也要注意冬季保暖",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00526",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "晚上到达峨眉山，第二天从报国寺出发徒步登山，需要提前预定门票吗？",
+    "answer": "需要提前预定门票，以便顺利进入景区开始徒步登山",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00527",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺徒步到金顶附近的住宿地点大约需要多长时间？",
+    "answer": "这个时间会根据个人体力和休息次数有所不同，但一般来说，从报国寺到金顶附近的住宿地点可能需要一天到两天的时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00528",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "徒步到金顶附近住宿，有什么推荐的住宿地点？",
+    "answer": "推荐在雷洞坪附近住宿，这里离金顶较近，方便第二天早起上金顶看日出",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00529",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "第二天从雷洞坪住宿地点徒步到金顶看日出，需要提前多久出发？",
+    "answer": "为了确保能准时到达金顶看日出，建议在日出前 2-3 小时左右出发",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00530",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "从报国寺出发徒步，沿途有哪些值得游览的景点？",
+    "answer": "沿途可以游览伏虎寺、清音阁、自然生态猴区、万年寺、洗象池等著名景点",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00531",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山上的住宿地点是否能预定到床位？",
+    "answer": "建议提前预定住宿，以确保在山上的住宿地点有床位",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00532",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "在峨眉山上住宿一晚的安全措施有哪些？",
+    "answer": "建议选择正规的住宿地点，保管好个人物品，并根据天气情况增添衣物以保暖",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00533",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "上峨眉山过程中有哪些餐饮推荐？",
+    "answer": "沿途的寺庙和景点附近都有餐饮服务，推荐尝试当地的素斋和农家菜",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00534",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "如果想看峨眉山金顶的日出，应该什么时候起床？",
+    "answer": "日出时间每天都有变化，且住宿在高山区雷洞坪或者金顶才赶得上看第二天的日出；住宿在雷洞坪的话需要在日出前 1 个多小时起床，徒步半小时后在接引殿排队上索道去金顶看日出；如果住宿在金顶，则在日出前 15 分钟起床即可，再步行 5-10 分钟到达金顶观景平台",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00535",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "峨眉山金顶看日出的人多吗？",
+    "answer": "金顶看日出的游客都挺多的，需要合理安排时间",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-RedNote-00536",
+    "source": "RedNote",
+    "category": "Factual",
+    "question": "可以带香到峨眉山金顶去拜拜吗？",
+    "answer": "可以，可以从山下带香到金顶",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  }
+]

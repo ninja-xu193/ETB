@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "ETB-FAQ-00001",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "如何预订 / 预约票务？",
+    "answer": "可通过以下方式线上预订：\n1. 微信关注 “峨眉山景区” 或 “峨眉山识途旅游网” 官方公众号。\n2. 通过美团、携程、去哪儿、同程等官方合作渠道。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00002",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "预订需要身份证吗？",
+    "answer": "需要。需凭身份证号码在线预订门票、索道票、观光车票等所有票务。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00003",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "如何通过微信预订？",
+    "answer": "1. “峨眉山景区” 订阅号：点击 “锦囊秘笈”→“订票戳这里”。\n2. “峨眉山识途旅游网” 服务号：点击 “在线预订”→选择第二个 “在线预定”。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00004",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "预订时选择的时段是什么？",
+    "answer": "选择的是景区入园时间，请务必在规定时间内入园。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00005",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "线上预订的票务可以改期吗？",
+    "answer": "不可以。需先申请退款（顺序：先退观光车 / 索道票，再退门票），退款成功后重新购买。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00006",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "只买了门票，如何增购车票 / 索道票？",
+    "answer": "可线上增购（官方公众号 / 合作渠道）或现场扫码增购。特殊人群的纸质票需到窗口办理。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00007",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "非特殊人群可以在现场购票吗？",
+    "answer": "不可以。景区实行全网售票，非特殊人群需线上购买。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00008",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "特殊人群可以在现场购票吗？",
+    "answer": "可以。可到线下综合服务窗口购票，不受限流限制。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00009",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "综合服务窗口设在哪里？",
+    "answer": "分布在高铁站、报国寺客运中心、黄湾售票大厅、五显岗车站、清音阁、龙升岗、万年寺、零公里等检票 / 售票点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00010",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "特殊人群包括哪些？",
+    "answer": "包括无身份证的港澳台同胞 / 外宾、现役军人、残疾人、导游、记者、消防救援人员、省部级英模 / 劳模、持《退役军人优待证》的退役军人等。（不含全日制本科及以下学生）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00011",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "退役军人有什么优惠？",
+    "answer": "持《退役军人优待证》可免门票，需到现场综合服务窗口办理。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00012",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "儿童、老人、学生可以现场购票吗？",
+    "answer": "不可以。这些群体虽有优惠，但可通过身份证识别，需提前线上预订。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00013",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门票包含哪些项目？",
+    "answer": "仅为景区大门票。不包含：观光车、索道、寺庙门票、保险等其他费用。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00014",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门票价格（旺季 / 淡季）",
+    "answer": "旺季 (1 月 16 日 - 12 月 14 日): 全价 160 元 / 人，半价 80 元 / 人\n淡季 (12 月 15 日 - 次年 1 月 15 日): 全价 110 元 / 人，半价 55 元 / 人",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00015",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门票有效期是多久？",
+    "answer": "2 个自然日。预订日期为第一日，两日内可多次进山，但同一景点检票口只能进出一次。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00016",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "观光车票和索道票有效期？",
+    "answer": "未使用的观光车票和索道票，在门票有效期内均可使用。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00017",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "徒步超过门票有效期怎么办？",
+    "answer": "若因徒步导致超过有效期，需使用已过期的索道票或观光车票时，可前往综合服务窗口办理延期。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00018",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "景区门票中心电话？",
+    "answer": "0833-5523646 (请于上班时间拨打)",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00019",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "金顶索道在哪里？",
+    "answer": "起点：接引殿，终点：金顶。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00020",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "金顶索道旺季和淡季价格是？",
+    "answer": "旺季：上行 65 元 / 人，下行 55 元 / 人；淡季：上行 30 元 / 人，下行 20 元 / 人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00021",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "金顶索道电话是？",
+    "answer": "请于上班时间拨打 0833-5098019。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00022",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "金顶索道开放时间是什么时候？",
+    "answer": "如无特殊情况，会在日出前 20-30 分钟提前开放。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00023",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "金顶索道收班时间是？",
+    "answer": "每天下午 18:00。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00024",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "万年索道在哪里？",
+    "answer": "起于万年停车场，止于万年寺。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00025",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "万年索道旺季和淡季价格是？",
+    "answer": "旺季：上行 65 元 / 人，下行 45 元 / 人；淡季：上行 30 元 / 人，下行 20 元 / 人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00026",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "万年索道电话是？",
+    "answer": "请于上班时间拨打 0833-5090128。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00027",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "万年索道收发班时间是？",
+    "answer": "4 月 1 日至 10 月 31 日：7:00 至 18:00；11 月 1 日至次年 3 月 31 日：7:30 至 18:00。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00028",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "景区内有观光车（大巴车 / 旅游大巴）吗？",
+    "answer": "有，观光车是景区内主要的代步工具，连接报国寺、黄湾、五显岗、万年寺、雷洞坪等各大停车场与景点。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00029",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "景区哪些地方有观光车站？",
+    "answer": "峨眉山景区低山区有报国寺车站、黄湾车站，中山区有万年寺车站、五显岗车站、零公里车站，高山区有雷洞坪车站。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00030",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "报国寺、黄湾车站观光车收发班时间是？",
+    "answer": "报国寺站、黄湾车站观光车：4 月 1 日 - 10 月 31 日期间上行收发班时间为 6:00——17:00；11 月 1 日 - 次年 3 月 31 日期间上行观光车收发班时间为 7:00——16:00。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00031",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "万年寺、五显岗车站观光车收发班时间是？",
+    "answer": "万年寺站、五显岗站观光车：4 月 1 日 - 10 月 31 日期间上行收发班时间为 6:00-17:00，下行收班时间为 20:00；11 月 1 日 - 次年 3 月 31 日期间上行收发班时间为 7:00-16:00，下行收班时间为 19:00。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00032",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "零公里车站观光车收发班时间是？",
+    "answer": "零公里车站观光车：4 月 1 日 - 10 月 31 日期间上行收发班时间为 6:00-17:00，下行收班时间为 18:00；11 月 1 日 - 次年 3 月 31 日期间上行收发班时间为 7:00-16:00，下行收班时间为 17:30。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00033",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "雷洞坪车站观光车收发班时间是？",
+    "answer": "雷洞坪车站观光车：4 月 1 日 - 10 月 31 日期间下行发班时间为 8:00，下行收班时间为 18:00；11 月 1 日 - 次年 3 月 31 日期间下行发班时间为 9:00，下行收班时间为 18:00。（温馨提示，如遇恶劣天气 16：30 以后不再发班）。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00034",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "乘坐观光车的时候是否会检门票呢？",
+    "answer": "在您第一次乘坐景区观光车时就会同时检验门票入园。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00035",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "观光车站电话是？",
+    "answer": "请于上班时间拨打以下咨询电话：\n・观光车站咨询电话：0833-5591549\n・报国寺车站电话：0833-5592464\n・黄湾车站：0833-5095016\n・五显岗车站电话：0833-5090084\n・万年车站电话：0833-5090082\n・零公里车站电话：0833-5098040\n・雷洞坪车站电话：0833-5098037\n・观光车投诉电话：0833-5091659",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00036",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门票和索道保险怎么购买？",
+    "answer": "门票和索道的保险在线上预订票务时就可以选择购买。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00037",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "如果线上预订时没有购买保险，怎么办？",
+    "answer": "保险无法在线上进行增购，如在预订票务时未选择门票、索道等票务相关保险，则只能到线下综合服务窗口办理。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00038",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "特殊人群可以在网上购买门票保险和索道保险吗？",
+    "answer": "特殊人群不可以在网上购买门票保险和索道保险，只能在现场综合服务窗口购买。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00039",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "线上预订成功后如何使用票务？",
+    "answer": "在预订消费日期内，凭预订游客的身份证可直接在门票、观光车票、索道等相关检票口检票过闸。学生需携带有效学生证在现场进行验证。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00040",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "线上预订后忘记携带身份证怎么办？",
+    "answer": "可前往综合服务窗口，凭身份证号码和线上预订信息领取纸质二维码，凭纸质二维码检票过闸。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00041",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门票在哪里检票？",
+    "answer": "通常在高铁站、报国寺车站、黄湾车站等观光车站上车检票时，如果门票尚未检票，会与车票同时检票过闸。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00042",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "1.2 米 - 1.5 米的儿童没有身份证怎么办？",
+    "answer": "1. 关注 “峨眉山识途旅游网” 官方微信服务号。\n2. 点击导航栏 “在线预订”。\n3. 选择 “儿童票电子二维码” 按钮。\n4. 凭游玩日期、姓名、身份证号码查询儿童电子二维码，凭此二维码检票入园。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00043",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山景区票务消费后怎么开具发票？",
+    "answer": "1. 关注 “数游峨眉” 官方微信服务号。\n2. 点击导航栏 “景区发票”→“散客开票”（或 “旅行社开票”）。\n3. 凭识途旅游网订单号在线开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00044",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "发票申请时间是？",
+    "answer": "在订单预订消费日期（或现场购票日期）过了 3 日后才能查询并开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00045",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "在其它渠道购买的票务，怎么找到识途旅游网订单号？",
+    "answer": "请联系您购买票务时的渠道客服人员，向他们索取识途旅游网订单号。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00046",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "不是在线预订的票务（现场购买）怎么开具发票？",
+    "answer": "若在现场综合服务窗口购买，需使用现场购票的凭证编码，在线开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00047",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "线上预订成功后的票务怎么使用？",
+    "answer": "在预订消费日期内，凭预订游客的身份证可直接在门票、观光车票、索道相关检票口检票过闸。学生需携带有效证件在现场进行验证。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00048",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "线上预订了票务的游客，忘记携带身份证怎么办？",
+    "answer": "可前往综合服务窗口，凭身份证号码和线上预订信息领取纸质二维码，凭纸质二维码检票过闸。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00049",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门票在哪里检票？",
+    "answer": "在高铁站、报国寺车站、黄湾车站等观光车站上车检票时，如果门票未检票，会与车票同时检票过闸。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00050",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "1.2 米 - 1.5 米的儿童没有身份证怎么办？",
+    "answer": "关注 “峨眉山识途旅游网” 官方微信服务号，点击 “在线预订”，选择 “儿童票电子二维码” 按钮，凭游玩日期、姓名、身份证号码查询儿童电子二维码，凭此二维码检票入园。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00051",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山景区票务消费后怎么开具发票？",
+    "answer": "关注 “数游峨眉” 官方微信服务号，点击 “景区发票”→“散客开票”（或 “旅行社开票”），凭识途旅游网订单号在线开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00052",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "发票申请时间是？",
+    "answer": "在订单预订消费日期（或现场购票日期）过了3 日后才能查询并开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00053",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "在其它渠道购买的，怎么找到识途旅游网订单号？",
+    "answer": "联系您购买票务时的渠道客服人员，请他们提供识途旅游网订单号。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00054",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "不是在线预订的票务怎么开具发票？",
+    "answer": "现场综合服务窗口购买的票务，需使用现场购票的凭证编码在线开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00055",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "没有凭证编码怎么办？",
+    "answer": "可以使用绑定的身份证号码在线开具相关电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00056",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "保险发票怎么开具？",
+    "answer": "1. 在识途旅游网小程序的 “电子保险” 中查看。\n2. 在 “中国人保财险” 公众号凭身份证查询、下载电子保单及电子发票。\n3. 拨打24 小时服务热线 95518 查询。\n4. 在工作日联系柜面服务电话 0833-5568735 查询。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00057",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "如何在线查询电子保险？",
+    "answer": "关注 “峨眉山识途旅游网” 微信服务号，点击 “在线预订” 进入预订页面，在 “我的” 里面找到 “电子保险”，即可凭证件号码查询已使用的保险的电子保单和电子发票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00058",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "线上预订的票务什么情况下可以申请退款？",
+    "answer": "未检票消费的景区门票、金顶索道、万年索道、观光车票务均可以在线上申请退款。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00059",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "退款到账时间是？",
+    "answer": "申请退款成功后，退款会在1-3 个工作日内按支付方式原路退回。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00060",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "在其它渠道购买的票务怎么申请退订？",
+    "answer": "在美团、携程、去哪儿、同程等渠道购买的票务，请直接在原购买渠道申请退款。需先退订成功观光车票、索道票等，才能申请退订门票订单。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00061",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "现场窗口购买的票务怎么退订？",
+    "answer": "需到现场综合服务窗口核实后退款（仅限未检票消费的票务）。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00062",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "老年人可以享受哪些优惠？",
+    "answer": "老年人只享受门票优惠，金顶索道、万年索道、观光车等票务均需购买成人票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00063",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "多少岁以上享受优惠？",
+    "answer": "1. 65 周岁（含）以上：凭有效证件（身份证、护照、往来大陆通行证）享受门票免票。\n2. 60 周岁（含）至 65 周岁（不含）：\n- 非法定节假日：享受门票免票。\n- 法定节假日：享受门票半价优惠。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00064",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "怎么购买观光车和索道呢？",
+    "answer": "需要在网上办理免费（或优惠）门票之后，才能在线预订车票和索道票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00065",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "私家车可以开到哪里？",
+    "answer": "在没有交通管制的情况下，私家车最远可以开到零公里停车场，再转乘景区观光车前往高山区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00066",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "自驾能否开到雷洞坪 / 五显岗 / 万年寺车站？",
+    "answer": "自驾车不可以开到雷洞坪车站。在无交通管制时，可以开到零公里、五显岗和万年寺车站。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00067",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "如何得知是否有交通管制？",
+    "answer": "请实时听从现场工作人员或交警指挥。也可提前拨打景区交通咨询电话：0833-5533355。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00068",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "哪些疾病患者应慎入景区？",
+    "answer": "患有心脏病、高血压、癫痫、精神病、痴呆症、骨质疏松症等，以及其他医学上认为不适宜进入山区或进行户外活动的人士，应慎入高山区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00069",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "哪些人群进入景区需要特别注意？",
+    "answer": "孕妇及醉酒者请慎入景区。老年人、重度伤残人士、未成年人、无民事行为能力及行动不便者，建议在有成年人陪护的情况下游览。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00070",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "在景区游览有哪些禁忌？",
+    "answer": "禁止携带火源、火种、化学品和易燃易爆品进入景区。景区内禁止燃放烟花爆竹、孔明灯；禁止野外用火。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00071",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "宠物是否可以进入景区？",
+    "answer": "宠物不能进入峨眉山核心景区，且景区观光车、索道都不允许宠物乘坐。请勿携带宠物进入景区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00072",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "应急救援电话号码是什么？",
+    "answer": "应急救援请拨打 18080664119。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00073",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "旅游投诉电话号码是什么？",
+    "answer": "旅游咨询投诉电话是 0833-5533355。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00074",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "祈福拜佛电话号码是什么？",
+    "answer": "佛教协会电话是 0833-5590995。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00075",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "受伤理赔电话号码是什么？",
+    "answer": "意外伤害电话是 0833-5544544。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00076",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "冬季滑雪场电话号码是什么？",
+    "answer": "冬季滑雪场电话是 0833-5098025。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00077",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山博物馆电话号码是什么？",
+    "answer": "峨眉山博物馆电话是 0833-5591643。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00078",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "关于景区限流有什么需要注意的？",
+    "answer": "景区会根据客流情况实行限流措施。车票可能会售罄，尤其是前往金顶方向的车票可能会限量销售。建议提前规划行程并购买票务。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00079",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我可以夜爬峨眉山吗？",
+    "answer": "峨眉山景区步游道线路长，山高坡陡，海拔落差大，为确保安全，景区已在相关区域设置了门禁，禁止夜间游览。 有具体管控范围吗？夜间管控范围:清音阁猴区入口卡点、万年寺友谊饭店卡点每日18:00至次日6:00禁止游客上行，洗象池卡点每日18:00至次日6:00禁止游客下行。零公里山门至雷洞坪的公路全天24小时禁止游客步行。请合理安排行程，做好自身安全的第一责任人。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00080",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "去金顶该预订什么票？",
+    "answer": "非徒步游客，需购买景区门票，并同步提前购买前往雷洞坪（金顶）的观光车票，以免无法乘车。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00081",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "从雷洞坪怎么去金顶？",
+    "answer": "从雷洞坪徒步约半小时到接引殿后，有两种选择：\n1. 继续徒步上金顶。\n2. 乘坐金顶索道上金顶。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00082",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "从雷洞坪徒步上金顶要多久？",
+    "answer": "徒步距离约 7.5 公里 游山道，耗时较长，需做好体力准备。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00083",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "景区会限流吗？",
+    "answer": "会。前往雷洞坪（金顶）的观光车票每日限量销售。若当日售罄：\n・可先购买中山区观光车票，游览万年寺、清音阁等。\n・请提前购买明后天前往高山区（雷洞坪 / 金顶）的车票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00084",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "从零公里可以徒步上雷洞坪吗？",
+    "answer": "不可以。零公里至雷洞坪为公路，禁止步行进入，需乘坐观光车。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00085",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "小长假、黄金周、暑期、寒假等节日期间有什么注意事项？",
+    "answer": "景区实行分时、预约、限量措施。请务必提前、及时预订门票和观光车票，避免因售罄无法进入景区。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00086",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我可以在哪里获取这些动态信息（如限流、售罄等）？",
+    "answer": "可以通过新浪微博 “峨眉山景区” 官方账号实时关注景区的最新动态和管控信息。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00087",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "门禁关闭时间是？",
+    "answer": "清音阁猴区入口、万年寺友谊饭店、零公里山门以内的步游道、公路、景点和非开放区域，于每日 18:00 至次日 6:00 禁止夜间游览。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00088",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "景区有什么演艺节目可以看的？",
+    "answer": "《只有峨眉山》戏剧幻城将带您领略千年峨眉，共赴文化盛宴。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00089",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我买的90元全山往返车票，上行或下行的时候中途可以下车去万年寺或者五显岗吗？",
+    "answer": "您好，90元全山往返车票可在上行或下行时，选择在五显岗车站或万年寺车站下车游玩，之后 继续乘车至终点站，但上下行仅能选择一次车，五显岗和万年车站也仅能选择一站。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00090",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我的返程车票可以送到高铁站吗？",
+    "answer": "可以。景区观光车提供峨眉山高铁站接驳服务，请在乘车时提前告知驾驶员“我要去高铁站”。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00091",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "可以自驾去金顶吗？",
+    "answer": "您好，不能自驾去金顶。在景区未进行交通管制的情况下，只能自驾到零公里然后转乘观光车上雷洞坪车站，再乘坐索道或者步行2小时上金顶。从零公里车站到雷洞坪车站的观光车车票往返是50元。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00092",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我有一天时间怎么游玩金顶？",
+    "answer": "您好，您可以从报国寺或者黄湾车站出发乘坐观光车到雷洞坪，再步行1.5公里至接引殿乘坐索道，或者步行2小时就可以上金顶了。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00093",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我有两天时间怎么游玩？",
+    "answer": "您好，您可以用一天时间玩金顶，再用一天时间玩半山（半山包括：清音阁、一线天、生态猴区、万年寺）。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00094",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我该怎么寄存行李呢？",
+    "answer": "您好，峨眉山旅游客运中心（报国车站）、黄湾游客中心提供收费自助行李寄存柜，收费标准：1元/小时/柜，不足1小时按1小时计算；最高收费12元/24小时；超过24小时费用再次按1元/小时/柜计算，以此类推。万年索道下站提供免费寄存柜。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00095",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "车站内的共享设备怎么使用？",
+    "answer": "您好，车站内的共享设备（轮椅、拐棍、雨伞 ）只需要用微信或者支付宝扫描二维码进入小程序缴纳押金就能租借使用，72小时内免费，还回设备时，系统会自动退还押金。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00096",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山景区门票的有效期是多久？",
+    "answer": "门票有效期为2个自然日，预订游览日期为第1个自然日，两日内可多次进山，但同一个景点检票口只能进出一次。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00097",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山景区观光车的有效期是多久？",
+    "answer": "未使用的观光车票在门票有效期内均可使用。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00098",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山景区索道的有效期是多久？",
+    "answer": "未使用的索道票在门票有效期内均可使用。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00099",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我该在哪里检票入园？",
+    "answer": "在乘坐景区观光车、索道时均会检验门票。全程徒步会有单独的检票入口。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00100",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "有没有使用限制？",
+    "answer": "观光车票和索道票均为次票，使用后就不能在用了。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00101",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我徒步上山需要购买景区门票吗？",
+    "answer": "进入峨眉山核心景区均需要购买门票，从龙升岗开始上山的徒步路线均在核心景区内。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00102",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我自驾到零公里需要景区门票吗？",
+    "answer": "自驾开车到零公里不需要景区门票。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00103",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "景区门票那么贵，包含其它费用吗？",
+    "answer": "峨眉山景区门票只是景区大门票。（不含寺庙门票、不含观光车票、不含索道票、不含其它任何费用）",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00104",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我已经使用了的票，但是有特殊原因要退，是否可以退？",
+    "answer": "已使用的票无法退订，如果您有特殊情况请到人工窗口核实。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00105",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我该在哪里购买景区的门票、观光车票、索道票？",
+    "answer": "您可以微信关注“峨眉山景区”官方微信订阅号，点击导航栏的锦囊秘笈，选择订票戳这里进入预订页面；或者微信关注“峨眉山识途旅游网”官方微信服务号，点击导航栏的在线预订，选择第二个在线预定进入预订页面；",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00106",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我在窗口是否可以购买景区票务？",
+    "answer": "目前只有特殊人群可以到现场人工窗口办理景区票务。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00107",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "我是否可以全程徒步上山？路程有多远？",
+    "answer": "可以全程徒步上山，经报国寺（1公里）→伏虎寺（1.5公里）→雷音寺（2.5公里）→纯阳殿（3.5公里）→圣水禅院（1公里）→中峰寺（1公里）→广福寺（1.5公里）→清音阁（3公里）→万年寺（11.5公里）→经息心所、初殿、华严顶到达→九岭岗（2.5公里）→洗象池（7.5公里）→雷洞坪（1.5公里）→接引殿（3.5公里）→太子坪（2.5公里）→金顶华藏寺。(总路程约44公里)",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-FAQ-00108",
+    "source": "FAQ",
+    "category": "Factual",
+    "question": "峨眉山景区是否可以夜爬？",
+    "answer": "峨眉山景区步游道线路长，山高坡陡，海拔落差大，为确保安全，景区已在相关区域设置了门禁，禁止夜间游览。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  }
+]

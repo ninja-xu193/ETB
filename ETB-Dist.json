@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ETB-Dist-00001",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁距离万年寺有多远？",
+    "answer": "清音阁距离万年寺 1.7 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00002",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "仙峰寺距离九岭岗有多远？",
+    "answer": "仙峰寺距离九岭岗 2.6 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00003",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁距离仙峰寺有多远？",
+    "answer": "清音阁距离仙峰寺 7.2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00004",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "报国寺距离伏虎寺有多远？",
+    "answer": "报国寺距离伏虎寺 1.3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00005",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "万年寺到九岭岗的距离是多少公里？",
+    "answer": "万年寺到九岭岗的距离是 5 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00006",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁距离五显岗停车场有多远？",
+    "answer": "清音阁距离五显岗停车场有 2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00007",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "万年寺到万年寺停车场的距离是多少？",
+    "answer": "万年寺到万年寺停车场的距离是 2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00008",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "伏虎寺到清音阁的距离是多少公里？",
+    "answer": "伏虎寺到清音阁的距离是 6.3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00009",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "九岭岗到洗象池的距离是多少公里？",
+    "answer": "九岭岗到洗象池的距离是 1.2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00010",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "从洗象池到雷洞坪停车场的距离是多少？",
+    "answer": "从洗象池到雷洞坪停车场的距离是 3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00011",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "洗象池和雷洞坪停车场之间的距离有多远？",
+    "answer": "洗象池和雷洞坪停车场之间的距离是 3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00012",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "雷洞坪停车场到接引殿缆车站的距离是多少？",
+    "answer": "雷洞坪停车场到接引殿缆车站的距离是 1.5 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00013",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "接引殿缆车站到金顶的距离是多少？",
+    "answer": "接引殿缆车站到金顶的距离是 2.7 公里。由于提供的信息较为简短，仅包含一个距离信息，因此只能生成一个相关的问题和答案。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00014",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "报国寺到伏虎寺的距离是多少公里？",
+    "answer": "报国寺到伏虎寺的距离是 1.3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00015",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "伏虎寺到清音阁的距离是多少公里？",
+    "answer": "伏虎寺到清音阁的距离是 6.3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00016",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁到五显岗停车场的距离是多少公里？",
+    "answer": "清音阁到五显岗停车场的距离是 2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00017",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁到万年寺的距离是多少公里？",
+    "answer": "清音阁到万年寺的距离是 1.7 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00018",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "万年寺到万年寺停车场的距离是多少公里？",
+    "answer": "万年寺到万年寺停车场的距离是 2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00019",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "万年寺到九岭岗的距离是多少公里？",
+    "answer": "万年寺到九岭岗的距离是 5 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00020",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁到仙峰寺的距离是多少公里？",
+    "answer": "清音阁到仙峰寺的距离是 7.2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00021",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "接引殿缆车站到金顶的距离是多少公里？",
+    "answer": "接引殿缆车站到金顶的距离是2.7公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00022",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "从万年寺到万年寺停车场的距离是多少公里？",
+    "answer": "从万年寺到万年寺停车场的距离是 2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00023",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "从万年寺到九岭岗的距离是多少公里？",
+    "answer": "从万年寺到九岭岗的距离是 5 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00024",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "清音阁到仙峰寺的距离是多少公里？",
+    "answer": "清音阁到仙峰寺的距离是 7.2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00025",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "仙峰寺到九岭岗的距离是多少公里？",
+    "answer": "仙峰寺到九岭岗的距离是 2.6 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00026",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "九岭岗到洗象池的距离是多少公里？",
+    "answer": "九岭岗到洗象池的距离是 1.2 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00027",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "洗象池到雷洞坪停车场的距离是多少公里？",
+    "answer": "洗象池到雷洞坪停车场的距离是 3 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  },
+  {
+    "id": "ETB-Dist-00028",
+    "source": "Dist",
+    "category": "Navigation",
+    "question": "雷洞坪停车场到接引殿缆车站的距离是多少公里？",
+    "answer": "雷洞坪停车场到接引殿缆车站的距离是 1.5 公里。",
+    "metadata": {
+      "is_multi_turn": false,
+      "has_context": false
+    },
+    "context": null
+  }
+]
