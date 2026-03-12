@@ -1,6 +1,6 @@
 # EmeiTourBench (ETB) 🏔️
 
-**EmeiTourBench: A Multi-Source Benchmark for Evaluating Large Language Models in Authentic Chinese Tourism Scenarios**
+**EmeiTourBench: A Multi-Source Benchmark for Assessing LLM Robustness in Authentic Chinese Tourism Consultations**
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://www.python.org/downloads/)
