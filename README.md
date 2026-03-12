@@ -21,7 +21,7 @@ The benchmark comprises **29,641** refined records, categorized by their source 
 | :--- | :--- | :--- | :--- |
 | **Official Doc** | 17,684 | Factual / Reasoning | Normative texts with context grounding |
 | **Hotline** | 11,372 | Spontaneous | Multi-turn dialogues with ASR noise |
-| **RedNote** | 449 | Social Media | Long-tail user-generated content |
+| **RedNote** | 536 | Social Media | Long-tail user-generated content |
 | **FAQ** | 108 | Factual | High-frequency official queries |
 | **Dist** | 28 | Navigation | Spatial-numerical reasoning |
 | **Total** | **29,641** | - | - |
